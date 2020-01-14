@@ -1035,7 +1035,7 @@ This is the minimum CSS that you will need in order for this to work
     margin-top: 50px;
 }
 .nav-tabs > li > a {
-    margin-right: 11px;
+    margin: 0 10px 10px 0;
     border: 1px solid #868686;
     border-radius: 5px;
     color: black;
@@ -3645,3 +3645,4 @@ blockquote {
         height: 70px;
     }
 }
+
