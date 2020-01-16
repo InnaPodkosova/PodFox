@@ -3,6 +3,11 @@
 Primary style
 
 -------------------------------- */
+@media screen and (max-width: 690px) {
+  .cd-headline.clip span{
+    display: block!important;
+  }
+}
 .cd-title {
   position: relative;
   height: 160px;

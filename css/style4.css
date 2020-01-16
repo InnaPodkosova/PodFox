@@ -1,9 +1,6 @@
 /*
-        Project:		-- giselle
-        Version:	    --
-        Create Date:	-- 7/5/17
-        Last change:	--
-        Primary use:	--
+        Project:		-- Podfox
+
 */
 
 /* 
@@ -171,6 +168,10 @@ body{
 .navbar-default.small .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
     color: #f31515  !important;
     background-color: transparent;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    /* background-color: #ddd; */
+    background-color: rgba(0,0,0,0);
 }
 
 .navbar-nav a.active.small {
@@ -468,6 +469,7 @@ body{
         transform: translate3d(0, 0, 0);
     }
 }
+
 .about-contact1 {
     background: none;
     color: white;
@@ -479,36 +481,12 @@ body{
     z-index: 111;
     background-color: #f31515;
 }
-.about-contact1::after {
-    position: absolute;
-    content: '';
-    top: 0;
-    left: 0;
-    background-color: white;
-    width: 0%;
-    height: 100%;
-    z-index: 1;
-    transition: .5s;
-    -webkit-transition: .5s;
-    -moz-transition: .5s;
-    -ms-transition: .5s;
-    -o-transition: .5s;
 
-}
-.about-contact1:hover:after {
-    transition: .5s;
-    -webkit-transition: .5s;
-    -moz-transition: .5s;
-    -ms-transition: .5s;
-    -o-transition: .5s;
-    width: 100%;
-    z-index: -1;
-
-}
 .about-contact1:hover {
-    color: #f31515;
+    color: #ffffff;
     text-decoration: none;
     z-index: 1;
+    background-color: rgba(255,255,225, 0);
     border: 1px solid white;
 }
 .about-contact2 {
@@ -2378,7 +2356,7 @@ only screen and (min-device-pixel-ratio: 1.5){
     z-index: 1111;
 }
 .message1-client h3 {
-    font-size: 43px;
+    font-size: 33px;
     font-family: 'Roboto', serif;
     letter-spacing: 2px;
     color: white;
@@ -3222,6 +3200,14 @@ blockquote {
     }
 }
 
+@media only screen and (min-width: 560px) and (max-width: 620px) {
+
+    .about-wrap{
+        width: 490px;
+        margin: 0 auto;
+  }
+
+}
 
 @media screen and (max-width: 640px) {
 
@@ -3253,6 +3239,13 @@ blockquote {
     }
     .navbar-default.small .navbar-nav > li > a:hover {
         color: #f31515 ;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .about-wrap{
+        width: 100%;
+        margin: 0 auto;
     }
 }
 
@@ -3366,7 +3359,6 @@ blockquote {
     .navbar-default.small .navbar-nav > li > a:hover {
         color: #f31515 ;
     }
-
 }
 
 @media screen and (max-width: 320px) {
@@ -3634,9 +3626,25 @@ blockquote {
         margin-top: 12px;
     }
 }
+
+@media screen and (min-width: 992px ) {
+    .creativity-details {
+        padding: 16px 4px;
+    }
+}
+
 @media screen and (max-width: 991px) {
     .fox-track{
         display: none;
+    }
+    .creativity-details {
+        padding: 16px 4px;
+    }
+    .cd-headline.clip{
+        font-size: 30px;
+    }
+    .cd-headline.clip span{
+        font-size: 30px;
     }
 
 }
@@ -3645,4 +3653,19 @@ blockquote {
         height: 70px;
     }
 }
+
+@media screen and (max-width: 420px) {
+    .message1-client h3 {
+        font-size: 25px;
+    }
+    .cd-headline.clip{
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .cd-headline.clip span{
+        font-size: 23px;
+        line-height: 35px;
+    }
+}
+
 
