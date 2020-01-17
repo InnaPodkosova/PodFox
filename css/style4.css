@@ -873,8 +873,9 @@ body{
     display: block;
 }
 .item.active::before {
-    background: #444;
-    color: #eee;
+    background: #f31515;
+    color: #fff;
+    border-radius: 5px;
 }
 .item.active .item-content {
     padding: 1em;
@@ -1040,25 +1041,13 @@ This is the minimum CSS that you will need in order for this to work
     background-color: #f31515;
     border: 1px solid #f31515;
 }
-
-
-/*Tabs-info - 2*/
-
-/*Tabs-info - 2*/
-
-
-
-
-
-
-
 .details-tips{
     width: 100%;
     border-top: 1px solid #454545;
 }
 .tab-content {
     padding: 0 15px;
-    margin-top: 50px;
+    margin-top: 25px;
 }
 .about-col1 {
     padding: 0;
@@ -1152,6 +1141,25 @@ This is the minimum CSS that you will need in order for this to work
     -moz-transition: .4s;
     -ms-transition: .4s;
     -o-transition: .4s;
+}
+/* =====================================  Additional services========================================================*/
+.tab-headline{
+    display: inline-block;
+    padding-left: 10px;
+}
+.underline-tab{
+    display: inline-block;
+    content: '';
+    width: 15px;
+    height: 15px;
+    background-color: #f31515;
+    margin-top: -10px;
+    transform: rotate(45deg);
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
 }
 
 /*=========================================================================== WORK ===============================================================*/
@@ -1868,36 +1876,6 @@ only screen and (min-device-pixel-ratio: 1.5){
     margin: 0;
     padding: 30px 20px;
 }
-.fox-track{
-  display: block;
-    position: relative;
-}
-.fox-track-top{
-    content: "";
-    background-image: url(../images/fox-smoll.png);
-    background-repeat: no-repeat;
-    /*background-size: cover;*/
-    position: absolute;
-    top: -40px;
-    width: 86px;
-    height: 141px;
-    z-index: 79;
-    transform: rotate(130deg);
-    margin: 0 65%;
-}
-.fox-track-bottom {
-    content: "";
-    background-image: url(../images/fox-smoll.png);
-    background-repeat: no-repeat;
-    /* background-size: cover; */
-    position: absolute;
-    width: 90px;
-    top: -95px;
-    height: 115px;
-    z-index: 130;
-    transform: rotate(45deg);
-    margin: 0 65%;
-}
 
 
 .media-body h3 {
@@ -2335,6 +2313,27 @@ only screen and (min-device-pixel-ratio: 1.5){
 
 .message1{
     margin-top: 70px;
+}
+#message-content2{
+    background: url(../images/message1.jpg) 50% 0 no-repeat fixed;
+    margin: 0;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    padding: 100px 0;
+}
+#message-content2:after{
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.68);
 }
 #message-content1{
     background: url(../images/message1.jpg) 50% 0 no-repeat fixed;
@@ -3640,9 +3639,6 @@ blockquote {
 }
 
 @media screen and (max-width: 991px) {
-    .fox-track{
-        display: none;
-    }
     .creativity-details {
         padding: 16px 4px;
     }
