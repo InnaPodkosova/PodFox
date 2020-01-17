@@ -846,14 +846,20 @@ body{
     font-weight: bold;
 }
 .tabs ul li {
-    background: #eee;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #e8e8e8;
+    margin: 4px 0;
 }
 .tabs ul li a {
     padding: 0.5em 1em;
+    text-decoration: none;
+    color: #000;
 }
 .tabs ul li a:hover, .tabs ul li a.active {
-    background: #444;
-    color: #eee;
+    background: #f31515;
+    color: #fff;
+    border-radius: 5px;
 }
 
 .item {
@@ -1013,8 +1019,8 @@ This is the minimum CSS that you will need in order for this to work
     margin-top: 50px;
 }
 .nav-tabs > li > a {
+    border: 1px solid #e8e8e8;
     margin: 0 10px 10px 0;
-    border: 1px solid #868686;
     border-radius: 5px;
     color: black;
     cursor: default;
@@ -1229,7 +1235,7 @@ This is the minimum CSS that you will need in order for this to work
     text-decoration: none;
     color: black;
     cursor: pointer;
-    border: 1px solid #F5F5F5;
+    border: 1px solid #e8e8e8;
     border-radius: 5px;
 }
 
