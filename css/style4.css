@@ -1173,7 +1173,7 @@ This is the minimum CSS that you will need in order for this to work
     margin-top: 0;
 }
 .work-content{
-    padding-bottom: 100px;
+    padding-bottom: 35px;
 }
 .work-grid{
     width: 100%;
@@ -1192,10 +1192,9 @@ This is the minimum CSS that you will need in order for this to work
     margin-bottom: 18px;
 
 }
-
-
 .work-details {
     margin-top: 30px;
+    margin-bottom: 100px;
 }
 .overlay {
     height: 100%;
@@ -1292,7 +1291,12 @@ This is the minimum CSS that you will need in order for this to work
     display:block;
     font-size:9px;
 }
-
+.video-res iframe{
+    width: 100%;
+    height: auto;
+    min-height: 185px;
+    margin-bottom: 25px;
+}
 
 
 
@@ -1896,6 +1900,7 @@ only screen and (min-device-pixel-ratio: 1.5){
 .media-body p {
     color: #1A1A1A;
     font-size: 16px;
+    text-align: justify;
     line-height: 23px;
     margin-top: 10px;
     letter-spacing: 1px;
@@ -2741,7 +2746,7 @@ blockquote {
     background-color: white;
     border: 1px solid #fff;
     padding: 20px 70px;
-    padding-bottom: 70px;
+    padding-bottom: 75px;
 }
 .contact-form-details {
     margin-top: 0;
@@ -3647,6 +3652,9 @@ blockquote {
     }
     .cd-headline.clip span{
         font-size: 30px;
+    }
+    .contact-col {
+        padding-bottom: 20px;
     }
 
 }
