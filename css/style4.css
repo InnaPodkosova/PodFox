@@ -1049,98 +1049,33 @@ This is the minimum CSS that you will need in order for this to work
     padding: 0 15px;
     margin-top: 25px;
 }
-.about-col1 {
-    padding: 0;
-    display: table;
-    height: 100%;
-    padding-right: 15px;
+.positive-traits{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 35px;
 }
-.day1-image{
-    width: 100%;
-    height: 400px;
-    padding: 0;
-    background-image: url(../images/dimg1.jpg);
-    background-size: cover;
-    background-position: center center;
-}
-.day2-image{
-    width: 100%;
-    height: 400px;
-    padding: 0;
-    background-image: url(../images/dimg2.jpg);
-    background-size: cover;
-    background-position: center center;
-}
-.day3-image{
-    width: 100%;
-    height: 400px;
-    padding: 0;
-    background-image: url(../images/dimg3.jpg);
-    background-size: cover;
-    background-position: center center;
-}
-.day4-image{
-    width: 100%;
-    height: 400px;
-    padding: 0;
-    background-image: url(../images/dimg4.jpg);
-    background-size: cover;
-    background-position: center center;
-}
-
-.day-text{
-    padding: 0 30px;
-}
-.day-text h3 {
-    color: #f31515;
-    font-size: 28px;
-    line-height: 26px;
-    letter-spacing: 1px;
-    margin-bottom: 21px;
-    font-weight: 700;
-}
-.day-text h2 {
-    color: #151515;
-    font-size: 21px;
-    line-height: 26px;
-    letter-spacing: 1px;
-    margin-bottom: 38px;
-    margin-top: 0;
-}
-.day-text p {
-    color: #4b4b4b;
+.positive-traits ul li{
+    text-align: left;
+    list-style-type: none;
     font-size: 16px;
-    line-height: 23px;
-    letter-spacing: 1px;
-    margin-bottom: 30px;
-    margin-top: 13px;
+    font-weight: 600;
+    color: #333;
+    line-height: 30px;
 }
-
-.details-row {
-    height: 400px;
-    background-color: white;
-    border: 1px solid #f0f0f0;
-    box-shadow: 0 0 2px 0 #f0f0f0;
-}
-
-.property-details-bottom h3 {
-    color: black;
-    font-size: 17px;
-}
-.property-icon {
-    color: white;
-    font-size: 19px;
-    height: 40px;
-    width: 40px;
-    background-color: #D75711;
-    text-align: center;
-    line-height: 36px;
-    box-shadow: 2px 2px 3px 0 #B0460C;
-    transition: .4s;
-    -webkit-transition: .4s;
-    -moz-transition: .4s;
-    -ms-transition: .4s;
-    -o-transition: .4s;
+.positive-traits ul li:before {
+    display: inline-block;
+    content: '';
+    width: 11px;
+    height: 11px;
+    margin-right: 15px;
+    background-color: #f31515;
+    margin-top: -10px;
+    transform: rotate(45deg);
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
 }
 /* =====================================  Additional services========================================================*/
 .tab-headline{
