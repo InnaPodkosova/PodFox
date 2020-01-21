@@ -1049,34 +1049,7 @@ This is the minimum CSS that you will need in order for this to work
     padding: 0 15px;
     margin-top: 25px;
 }
-.positive-traits{
-    display: flex;
-    justify-content: space-around;
-    margin-bottom: 35px;
-}
-.positive-traits ul li{
-    text-align: left;
-    list-style-type: none;
-    font-size: 16px;
-    font-weight: 600;
-    color: #333;
-    line-height: 30px;
-}
-.positive-traits ul li:before {
-    display: inline-block;
-    content: '';
-    width: 11px;
-    height: 11px;
-    margin-right: 15px;
-    background-color: #f31515;
-    margin-top: -10px;
-    transform: rotate(45deg);
-    transition: .5s;
-    -webkit-transition: .5s;
-    -moz-transition: .5s;
-    -ms-transition: .5s;
-    -o-transition: .5s;
-}
+
 /* =====================================  Additional services========================================================*/
 .tab-headline{
     display: inline-block;

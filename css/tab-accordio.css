@@ -1,24 +1,69 @@
 
 .img-details{
     width: 100%;
-    height: 135px;
+    height: 160px;
     padding: 0;
     background-size: cover;
     background-position: center center;
 }
 
-.buss-a {
-    background-image: url(../images/details/bussines/21560_max.jpg);
+.paty1 {
+    background-image: url(../images/details/corporate/corporate-1.jpg);
+}
+.paty2 {
+    background-image: url(../images/details/corporate/corporate-2.jpg);
+}
+.paty3 {
+    background-image: url(../images/details/corporate/corporate-3.jpg);
+}
+.paty4 {
+    background-image: url(../images/details/corporate/corporate-4.jpg);
+}
+.city {
+    background-image: url(../images/details/city/city-1.webp);
 }
 .card-body p{
-    margin: 15px 0 50px 0;
+    margin: 15px 0 15px 0;
     text-align: justify;
-    font-size: 15px;
-
+    font-size: 16px;
+}
+.card-body p span{
+    color: #f31515;
+    font-weight: 800;
+}
+.positive-traits{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 35px;
+}
+.positive-traits ul{
+    padding-left: 0;
+}
+.positive-traits ul li{
+    text-align: left;
+    list-style-type: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    line-height: 30px;
+}
+.positive-traits ul li:before {
+    display: inline-block;
+    content: '';
+    width: 11px;
+    height: 11px;
+    margin-right: 15px;
+    background-color: #f31515;
+    margin-top: -10px;
+    transform: rotate(45deg);
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
 }
 .card-body a{
     margin: 25px auto;
-
 }
 .active-ac{
     width: 225px;
@@ -43,12 +88,15 @@
     -ms-transition: .5s;
     -o-transition: .5s;
 }
-
-
 .tab-events  {
     display:none;
 }
-
+@media(max-width:991px) {
+    .positive-traits {
+        justify-content: start;
+        flex-wrap: wrap;
+    }
+}
 @media(min-width:768px) {
     .events-content{
         margin-top: 5px;
