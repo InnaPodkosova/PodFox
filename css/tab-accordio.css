@@ -26,7 +26,13 @@
     background-image: url(../images/details/family/w3.jpg);
 }
 .family2 {
-    background-image: url(../images/details/family/w1.jpg);
+    background-image: url(../images/details/family/w03.jpg);
+}
+.family3 {
+    background-image: url(../images/details/family/w02.jpg);
+}
+.family4 {
+    background-image: url(../images/details/family/w4.jpg);
 }
 .card-body p{
     margin: 15px 0 15px 0;
@@ -42,15 +48,31 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
+.positive-traits2{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 35px;
+}
 .positive-traits{
     display: flex;
     justify-content: space-around;
     margin-bottom: 35px;
 }
+.wrap-key {
+    display: block;
+    text-align: center;
+}
+.wrap-key h3{
+    color: #f31515;
+}
 
+.positive-traits2 ul,
 .positive-traits ul{
     padding-left: 0;
 }
+
+.positive-traits2 ul li,
 .positive-traits ul li{
     text-align: left;
     list-style-type: none;
@@ -60,6 +82,7 @@
     line-height: 30px;
     padding-right: 20px;
 }
+.positive-traits2 ul li:before,
 .positive-traits ul li:before {
     display: inline-block;
     content: '';
@@ -81,6 +104,9 @@
     margin-left: 26px;
     display: block;
     font-style: italic;
+}
+.media2 .media-body h3{
+    text-align: left;
 }
 .card-body a{
     margin: 25px auto;
@@ -131,6 +157,10 @@
 @media(max-width:991px) {
     .positive-traits {
         justify-content: start;
+        flex-wrap: wrap;
+    }
+    .positive-traits {
+        justify-content: space-between;
         flex-wrap: wrap;
     }
 }

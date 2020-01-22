@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/tab-accordio.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tab-accordio.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -24,8 +22,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="568" column="97" selection-start-line="568" selection-start-column="97" selection-end-line="568" selection-end-column="97" />
+                <state relative-caret-position="-1202">
+                  <caret line="484" column="64" selection-start-line="484" selection-start-column="64" selection-end-line="484" selection-end-column="80" />
                   <folding>
                     <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -36,8 +34,8 @@
           <file leaf-file-name="tab-accordio.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="542">
-                  <caret line="192" column="5" selection-start-line="192" selection-start-column="5" selection-end-line="192" selection-end-column="5" />
+                <state relative-caret-position="558">
+                  <caret line="31" column="60" lean-forward="true" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
                 </state>
               </provider>
             </entry>
@@ -46,7 +44,7 @@
             <entry file="file://$PROJECT_DIR$/css/style4.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="324">
-                  <caret line="1169" column="18" lean-forward="true" selection-start-line="1169" selection-start-column="18" selection-end-line="1169" selection-end-column="18" />
+                  <caret line="1169" column="18" selection-start-line="1169" selection-start-column="18" selection-end-line="1169" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -59,7 +57,7 @@
             <entry file="file://$PROJECT_DIR$/css/style4.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="339">
-                  <caret line="1789" column="1" lean-forward="true" selection-start-line="1789" selection-start-column="1" selection-end-line="1789" selection-end-column="1" />
+                  <caret line="1789" column="1" selection-start-line="1789" selection-start-column="1" selection-end-line="1789" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -108,9 +106,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/animate-header.css" />
-        <option value="$PROJECT_DIR$/css/tab-accordio.css" />
         <option value="$PROJECT_DIR$/css/style4.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/tab-accordio.css" />
       </list>
     </option>
   </component>
@@ -126,7 +124,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1920" />
     <option name="y" value="-1" />
     <option name="width" value="1920" />
@@ -184,7 +182,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html/Designe-Lagoon" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -244,12 +242,12 @@
       <workItem from="1579248873722" duration="21000" />
       <workItem from="1579271785109" duration="2337000" />
       <workItem from="1579600058835" duration="9997000" />
-      <workItem from="1579684934518" duration="9904000" />
+      <workItem from="1579684934518" duration="15370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39539000" />
+    <option name="totallyTimeSpent" value="45005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1053" extended-state="6" />
@@ -264,7 +262,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20734341" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22462203" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -471,13 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="192" column="5" selection-start-line="192" selection-start-column="5" selection-end-line="192" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/animate-header.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -488,14 +479,21 @@
     <entry file="file://$PROJECT_DIR$/css/style4.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="1169" column="18" lean-forward="true" selection-start-line="1169" selection-start-column="18" selection-end-line="1169" selection-end-column="18" />
+          <caret line="1169" column="18" selection-start-line="1169" selection-start-column="18" selection-end-line="1169" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="60" lean-forward="true" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="568" column="97" selection-start-line="568" selection-start-column="97" selection-end-line="568" selection-end-column="97" />
+        <state relative-caret-position="-1202">
+          <caret line="484" column="64" selection-start-line="484" selection-start-column="64" selection-end-line="484" selection-end-column="80" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
