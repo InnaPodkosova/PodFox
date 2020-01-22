@@ -22,6 +22,12 @@
 .city {
     background-image: url(../images/details/city/city-1.webp);
 }
+.family1 {
+    background-image: url(../images/details/family/w3.jpg);
+}
+.family2 {
+    background-image: url(../images/details/family/w1.jpg);
+}
 .card-body p{
     margin: 15px 0 15px 0;
     text-align: justify;
@@ -31,11 +37,17 @@
     color: #f31515;
     font-weight: 800;
 }
+.family-info{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
 .positive-traits{
     display: flex;
     justify-content: space-around;
     margin-bottom: 35px;
 }
+
 .positive-traits ul{
     padding-left: 0;
 }
@@ -46,6 +58,7 @@
     font-weight: 600;
     color: #333;
     line-height: 30px;
+    padding-right: 20px;
 }
 .positive-traits ul li:before {
     display: inline-block;
@@ -61,6 +74,13 @@
     -moz-transition: .5s;
     -ms-transition: .5s;
     -o-transition: .5s;
+}
+.positive2 ul li span,
+.positive-traits ul li span{
+    font-size: 14px;
+    margin-left: 26px;
+    display: block;
+    font-style: italic;
 }
 .card-body a{
     margin: 25px auto;
@@ -90,6 +110,23 @@
 }
 .tab-events  {
     display:none;
+}
+.service-details-f{
+    padding: 0;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+    background-color: white;
+    /*overflow: hidden;*/
+    position: relative;
+}
+.media2 {
+    position: relative;
+    z-index: 111;
+    margin: 0;
+    padding: 10px 20px;
 }
 @media(max-width:991px) {
     .positive-traits {
@@ -153,5 +190,8 @@
 @media screen and (max-width: 520px) {
     .tab-content {
         margin-top: -13px;
+    }
+    .media2 {
+        padding: 10px 0;
     }
 }
