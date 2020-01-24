@@ -34,6 +34,9 @@
 .family4 {
     background-image: url(../images/details/family/w4.jpg);
 }
+.family5 {
+    background-image: url(../images/details/family/w5.jpg);
+}
 .card-body p{
     margin: 15px 0 15px 0;
     text-align: justify;
@@ -50,7 +53,7 @@
 }
 .positive-traits2{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
     margin-bottom: 35px;
 }
@@ -154,6 +157,35 @@
     margin: 0;
     padding: 10px 20px;
 }
+.bl-program{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.price-wrap a h3 {
+    font-size: 20px;
+    color: #33333f;
+}
+.price-list{
+    margin: 0 auto;
+    width: 100%;
+}
+.price-list tr{
+    border-bottom: 1px solid #f31515;
+}
+
+.price-list tr th,
+.price-list tr td{
+    font-size: 15px;
+    line-height: 25px;
+    text-align: left;
+    padding: 0 10px;
+    color: #33333f;
+}
+.price-list tr:last-child td{
+    text-align: justify;
+    color: #f02a2a;
+}
 @media(max-width:991px) {
     .positive-traits {
         justify-content: start;
@@ -162,6 +194,9 @@
     .positive-traits {
         justify-content: space-between;
         flex-wrap: wrap;
+    }
+    .positive-traits2{
+        justify-content: space-between;
     }
 }
 @media(min-width:768px) {
@@ -180,8 +215,6 @@
         text-align: left;
         margin: 3px 0;
     }
-
-
 
     .card .card-header {
         display:none;
@@ -215,6 +248,12 @@
 
     .card-header:active {
 
+    }
+    .bl-program {
+        justify-content: center;
+    }
+    .price-wrap a{
+        margin: 0 auto;
     }
 }
 @media screen and (max-width: 520px) {
