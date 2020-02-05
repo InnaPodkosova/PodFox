@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/css/fancyBox.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/js/fancyBox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/tab-accordio.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tab-accordio.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" />
@@ -40,6 +41,8 @@
       <change beforePath="$PROJECT_DIR$/js/jquery.fancybox.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/jquery.fancybox.pack.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js_1" beforeDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,8 +61,13 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
                 <state relative-caret-position="324">
                   <caret line="1710" column="69" lean-forward="true" selection-start-line="1710" selection-start-column="69" selection-end-line="1710" selection-end-column="69" />
+=======
+                <state relative-caret-position="7416">
+                  <caret line="412" column="90" selection-start-line="412" selection-start-column="90" selection-end-line="412" selection-end-column="90" />
+>>>>>>> Stashed changes
                   <folding>
                     <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -72,8 +80,13 @@
           <file leaf-file-name="tab-accordio.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
                 <state relative-caret-position="677">
                   <caret line="267" lean-forward="true" selection-start-line="267" selection-end-line="267" />
+=======
+                <state relative-caret-position="2286">
+                  <caret line="127" column="39" selection-start-line="127" selection-start-column="39" selection-end-line="127" selection-end-column="39" />
+>>>>>>> Stashed changes
                 </state>
               </provider>
             </entry>
@@ -81,8 +94,13 @@
           <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
                 <state relative-caret-position="-555">
                   <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+=======
+                <state relative-caret-position="518">
+                  <caret line="1173" column="18" selection-start-line="1173" selection-start-column="18" selection-end-line="1173" selection-end-column="18" />
+>>>>>>> Stashed changes
                 </state>
               </provider>
             </entry>
@@ -94,8 +112,22 @@
           <file leaf-file-name="style4.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style4.css">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
                 <state relative-caret-position="541">
                   <caret line="2417" column="14" selection-start-line="2417" selection-start-column="14" selection-end-line="2417" selection-end-column="14" />
+=======
+                <state relative-caret-position="1386">
+                  <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="tab-accordio.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="450">
+                  <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+>>>>>>> Stashed changes
                 </state>
               </provider>
             </entry>
@@ -397,15 +429,29 @@
       <workItem from="1578924699424" duration="1212000" />
       <workItem from="1579248873722" duration="21000" />
       <workItem from="1579271785109" duration="2337000" />
+<<<<<<< Updated upstream
       <workItem from="1580044755750" duration="15537000" />
+=======
+      <workItem from="1579600058835" duration="9997000" />
+      <workItem from="1579684934518" duration="15370000" />
+      <workItem from="1579857470462" duration="16878000" />
+      <workItem from="1580122029834" duration="29000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="39613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1044" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="66514000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="-1" width="1920" height="1040" extended-state="6" />
+>>>>>>> Stashed changes
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20137058" />
@@ -416,7 +462,11 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.020833334" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34279475" />
+>>>>>>> Stashed changes
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -758,13 +808,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/fancyBox.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state>
           <caret column="13629" selection-start-column="13629" selection-end-column="13629" />
+=======
+        <state relative-caret-position="2286">
+          <caret line="127" column="39" selection-start-line="127" selection-start-column="39" selection-end-line="127" selection-end-column="39" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/1b98f46f85.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="255">
           <caret line="17" column="8972" selection-start-line="17" selection-start-column="8967" selection-end-line="17" selection-end-column="8972" />
         </state>
@@ -781,6 +837,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="27950" selection-start-line="11" selection-start-column="27950" selection-end-line="11" selection-end-column="27950" />
+=======
+        <state relative-caret-position="7416">
+          <caret line="412" column="90" selection-start-line="412" selection-start-column="90" selection-end-line="412" selection-end-column="90" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -803,8 +863,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style4.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="541">
           <caret line="2417" column="14" selection-start-line="2417" selection-start-column="14" selection-end-line="2417" selection-end-column="14" />
+=======
+        <state relative-caret-position="1386">
+          <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
