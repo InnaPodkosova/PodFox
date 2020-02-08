@@ -70,7 +70,7 @@
         interval: 3000
     });
 
-
+    /*============================================ gallery photo party==========================================*/
 
     $('.works-slideshow .team-item').each(function() {
         var slider = $(this);
@@ -80,14 +80,14 @@
             accessibility: false,
             infinite: true,
             autoplay: true,
-            autoplaySpeed: 5000,
+            autoplaySpeed: 6000,
             slidesToShow: 3,
-            slidesToScroll: 1,
+            slidesToScroll: 3,
             responsive: [{
-                breakpoint: 600,
+                breakpoint: 767,
                 settings: {
                     slidesToShow: 2,
-                    slidesToScroll: 1
+                    slidesToScroll: 2
                 }
             },
                 {
@@ -105,6 +105,97 @@
             src: 'src',
             itemSelector: '.team-image img'
         });
+    });
+
+    /*============================================ gallery video party==========================================*/
+
+    $('#main-slider').slick({
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        autoplay: false,
+        autoplaySpeed: 6000,
+        dots: false,
+        infinite: true,
+        adaptiveHeight: true,
+        arrows: false,
+        responsive: [{
+            breakpoint: 767,
+            settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2
+            }
+        },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+
+    /*============================================ gallery logo clients==========================================*/
+
+
+    $('.our-clients').slick({
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        arrows: false,
+
+        responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 3,
+                    dots: false
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+
+    /*============================================ clients reviews ==========================================*/
+
+
+    // Init fancyBox
+    $().fancybox({
+        selector : '.slick-slide:not(.slick-cloned)',
+        hash     : false
+    });
+
+    // Init Slick
+    $('.my-gallery').slick({
+        slidesToShow   : 3,
+        slidesToScroll : 3,
+        infinite : true,
+        dots     : false,
+        arrows   : false,
+        responsive : [
+            {
+                breakpoint : 960,
+                settings : {
+                    slidesToShow   : 1,
+                    slidesToScroll : 1
+                }
+            }
+        ]
     });
 
 
@@ -186,3 +277,5 @@ function tabControl() {
         });
     }
 }
+
+

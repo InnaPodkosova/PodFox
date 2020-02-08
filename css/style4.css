@@ -2146,10 +2146,6 @@ only screen and (min-device-pixel-ratio: 1.5){
 }
 
 
-
-
-
-
 /*============================================================= TESTIMONIAL ================================================================*/
 
 
@@ -2388,8 +2384,9 @@ blockquote {
     line-height: 23px;
     margin-bottom: 40px;
 }
-.our-clients{
-    padding: 25px 0;
+
+.my-clients img{
+    height: 115px;
 }
 .slick-slide img {
     margin: 0 auto;
