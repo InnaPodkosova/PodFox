@@ -2175,7 +2175,7 @@ only screen and (min-device-pixel-ratio: 1.5){
 .carousel-indicators1 {
     position: absolute;
     bottom: 10px;
-    left: 0%;
+    left: 1.5%;
     z-index: 15;
     width: 100%;
     padding-left: 0;
@@ -2248,6 +2248,9 @@ section {
 .item{
     height: auto;
 }
+.client-rew{
+    margin-bottom: 30px;
+}
 
 .circle-img {
     width: 100%;
@@ -2255,11 +2258,13 @@ section {
     border-radius: 5px;
 }
 #fade-quote-carousel .profile-circle {
-    width: 100px;
-    height: 100px;
+    height: 25px;
     border-radius: 100px;
     margin-bottom: 9px;
     margin-top: 10px;
+}
+.profile-circle h3{
+    font-weight: bold;
 }
 .review-client{
     padding-top: 90px;
@@ -3083,7 +3088,7 @@ blockquote {
         z-index: 15;
         width: 100%;
         padding-left: 0;
-        margin-left: -45%;
+        margin-left: -40%;
         text-align: center;
         list-style: none;
     }
