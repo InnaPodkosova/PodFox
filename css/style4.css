@@ -2671,6 +2671,31 @@ blockquote {
     color: black;
 }
 
+/*footer social*/
+.copyright
+{
+    display: flex;
+    justify-content: center;
+}
+.social-youtube,
+.social-insta{
+    width: 130px;
+    height: 50px;
+    margin: 15px 15px 10px 15px;
+}
+.youtube,
+.instagram{
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 80px;
+}
+.youtube{
+    background-image: url("../images/youtube.png");
+}
+.instagram{
+    background-image: url("../images/instagram.png");
+}
+
 
 
 
