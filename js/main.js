@@ -84,14 +84,14 @@
             slidesToShow: 3,
             slidesToScroll: 3,
             responsive: [{
-                breakpoint: 767,
+                breakpoint: 991,
                 settings: {
                     slidesToShow: 2,
                     slidesToScroll: 2
                 }
             },
                 {
-                    breakpoint: 480,
+                    breakpoint: 520,
                     settings: {
                         slidesToShow: 1,
                         slidesToScroll: 1
@@ -109,7 +109,7 @@
 
     /*============================================ gallery video party==========================================*/
 
-    $('#main-slider').slick({
+    $('#main-slider-video').slick({
         slidesToShow: 3,
         slidesToScroll: 3,
         autoplay: false,
@@ -119,17 +119,21 @@
         adaptiveHeight: true,
         arrows: false,
         responsive: [{
-            breakpoint: 767,
+            breakpoint: 991,
             settings: {
                 slidesToShow: 2,
-                slidesToScroll: 2
+                slidesToScroll: 2,
+                dots: true,
+                autoplay: true,
             }
         },
             {
-                breakpoint: 480,
+                breakpoint: 520,
                 settings: {
                     slidesToShow: 1,
-                    slidesToScroll: 1
+                    slidesToScroll: 1,
+                    dots: true,
+                    autoplay: true,
                 }
             }
         ]

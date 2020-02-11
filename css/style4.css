@@ -20,11 +20,6 @@
         
 */
 
-
-
-
-
-
 html{
     position: relative;
     height: 100%;
@@ -36,6 +31,7 @@ body{
     font-family: 'Lato', sans-serif;
     height: 100%;
     background-color: transparent;
+
 }
 @font-face {
     font-family: 'Glyphicons Halflings';
@@ -763,7 +759,10 @@ body{
 }
 
 #counter{
-    background: url(../images/bg12.jpg) 50% 0 no-repeat fixed;
+    background-image: url(../images/bg12.jpg);
+    background-position: 50% 50%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     margin: 0;
     height: 100%;
     position: relative;
@@ -1081,15 +1080,10 @@ This is the minimum CSS that you will need in order for this to work
 /*=========================================================================== WORK ===============================================================*/
 
 
-
-
 #work {
     width: 100%;
     background-color: white;
     margin-top: 0;
-}
-.work-content{
-    padding-bottom: 35px;
 }
 .work-grid{
     width: 100%;
@@ -2082,7 +2076,10 @@ only screen and (min-device-pixel-ratio: 1.5){
     margin-top: 70px;
 }
 #message-content2{
-    background: url(../images/message23.jpg) 50% 0 no-repeat fixed;
+    background-image: url(../images/message23.jpg) ;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
     margin: 0;
     height: 100%;
     position: relative;
@@ -2105,6 +2102,7 @@ only screen and (min-device-pixel-ratio: 1.5){
 #message-content1{
     background-image: url(../images/message24.jpg);
     background-position: 50% 50%;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     margin: 0;
     height: 100%;
@@ -2414,7 +2412,9 @@ blockquote {
 }
 
 #contact-content{
-    background: url(../images/contact.jpg) 50% 0 no-repeat fixed;
+    background-image: url(../images/contact.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
     margin: 0;
     height: 100%;
     position: relative;
@@ -2694,7 +2694,7 @@ blockquote {
 .instagram{
     background-size: contain;
     background-repeat: no-repeat;
-    height: 80px;
+    height: 48px;
 }
 .youtube{
     background-image: url("../images/youtube.png");

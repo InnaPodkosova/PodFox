@@ -127,7 +127,7 @@
 
 /****** block -video gakkery ********/
 
-#main-slider{
+#main-slider-video{
     margin-top: 35px;
 }
 
@@ -155,19 +155,26 @@
 /*}*/
 
 
-@media screen and (max-width: 991px ) {
+/*@media screen and (max-width: 991px ) {*/
+    /*.slick-initialized .slick-slide*/
+    /*{*/
+        /*height: 205px;*/
+    /*}*/
+/*}*/
+/*@media screen and (max-width: 767px ) {*/
+    /*.slick-initialized .slick-slide*/
+    /*{*/
+        /*height: 195px;*/
+    /*}*/
+/*}*/
+@media screen and (max-width: 650px ) {
     .slick-initialized .slick-slide
     {
-        height: 155px;
+        height: 200px;
     }
 }
-@media screen and (max-width: 767px ) {
-    .slick-initialized .slick-slide
-    {
-        height: 205px;
-    }
-}
-@media screen and (max-width: 480px ) {
+
+@media screen and (max-width: 520px ) {
     .slick-initialized .slick-slide
     {
         height: 225px;
