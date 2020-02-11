@@ -2103,7 +2103,9 @@ only screen and (min-device-pixel-ratio: 1.5){
     background-color: rgba(0, 0, 0, 0.68);
 }
 #message-content1{
-    background: url(../images/message24.jpg) 50% 0 no-repeat fixed;
+    background-image: url(../images/message24.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
     margin: 0;
     height: 100%;
     position: relative;
