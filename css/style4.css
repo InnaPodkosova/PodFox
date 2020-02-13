@@ -244,12 +244,16 @@ body{
     position: absolute;
     height: 100%;
 }
+.mu-box{
+    background-color: rgba(0,0,0,0.5);
+    z-index: 50;
+}
 
 .home-slider-1 {
     height: 100vh;
     min-height: 100%;
     width: 100%;
-    background-image: url(../images/img4.jpg);
+    background-image: url(../images/slide-1.jpg);
     position: relative;
     background-size: cover;
     background-position: center center;
@@ -258,7 +262,7 @@ body{
     height: 100vh;
     min-height: 100%;
     width: 100%;
-    background-image: url(../images/img5.jpg);
+    background-image: url(../images/slide-2.jpg);
     position: relative;
     background-size: cover;
     background-position: center center;
@@ -267,7 +271,7 @@ body{
     height: 100vh;
     min-height: 100%;
     width: 100%;
-    background-image: url(../images/img6.jpg);
+    background-image: url(../images/slide-3.jpg);
     position: relative;
     background-size: cover;
     background-position: center center;
