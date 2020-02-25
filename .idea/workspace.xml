@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/details/family/w5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/details/family/w5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,8 +23,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="509" column="84" lean-forward="true" selection-start-line="509" selection-start-column="84" selection-end-line="509" selection-end-column="84" />
+                <state relative-caret-position="332">
+                  <caret line="1107" column="122" selection-start-line="1107" selection-start-column="122" selection-end-line="1107" selection-end-column="122" />
                   <folding>
                     <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#section#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -114,6 +115,7 @@
       <find>#main-slider</find>
       <find>#counter</find>
       <find>детский день рождения</find>
+      <find>выпускной</find>
     </findStrings>
     <replaceStrings>
       <replace>bus-pane-A</replace>
@@ -170,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,7 +199,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -274,18 +276,19 @@
       <workItem from="1582048944209" duration="6925000" />
       <workItem from="1582140007033" duration="1273000" />
       <workItem from="1582362525221" duration="599000" />
-      <workItem from="1582571537639" duration="3526000" />
+      <workItem from="1582571537639" duration="4208000" />
+      <workItem from="1582655369298" duration="7202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85659000" />
+    <option name="totallyTimeSpent" value="93543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-15" y="0" width="1910" height="1039" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.116551355" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0532198" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -675,8 +678,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="509" column="84" lean-forward="true" selection-start-line="509" selection-start-column="84" selection-end-line="509" selection-end-column="84" />
+        <state relative-caret-position="332">
+          <caret line="1107" column="122" selection-start-line="1107" selection-start-column="122" selection-end-line="1107" selection-end-column="122" />
           <folding>
             <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#0;n#section#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
