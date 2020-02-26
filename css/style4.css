@@ -896,6 +896,22 @@ body{
     -ms-transition: opacity 0.3s ease-in-out;
     transition: opacity 0.3s ease-in-out;
 }
+.events-media{
+    position: relative;
+    z-index: 111;
+    margin: 0;
+    padding: 10px 20px 5px 20px;
+}
+.events-media-body{
+    vertical-align: top;
+    overflow: visible;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.media-body-headline{
+    padding: 0 0 20px 15px;
+}
 
 @media all and (min-width: 800px) {
     .item.active .item-content {
