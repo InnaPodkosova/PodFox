@@ -902,15 +902,29 @@ body{
     margin: 0;
     padding: 10px 20px 5px 20px;
 }
+.media-bl{
+    margin-bottom: 0!important;
+}
+.media-mr{
+    margin-bottom: 40px;
+}
+.underline-media{
+    top: 13px;
+    position: absolute;
+}
 .events-media-body{
-    vertical-align: top;
-    overflow: visible;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+    display: block;
+    position: relative;
+    /*vertical-align: top;*/
+    /*overflow: visible;*/
+    /*display: flex;*/
+    /*justify-content: flex-start;*/
+    /*align-items: center;*/
 }
 .media-body-headline{
-    padding: 0 0 20px 15px;
+    font-size: 18px;
+    padding: 0 0 10px 25px;
+    text-align: left;
 }
 
 @media all and (min-width: 800px) {
