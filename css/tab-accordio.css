@@ -6,7 +6,11 @@
     background-size: cover;
     background-position: center center;
 }
-
+.bg-content{
+    background-size: cover;
+    background-image: url(../images/test3.png);
+    background-repeat: no-repeat;
+}
 .paty1 {
     background-image: url(../images/details/corporate/corporate-1.jpg);
 }
@@ -37,6 +41,15 @@
 .family5 {
     background-image: url(../images/details/family/w5.jpg);
 }
+.family6 {
+    background-image: url(../images/details/family/w6.jpg);
+}
+.family7 {
+    background-image: url(../images/details/family/w7.jpg);
+}
+.mice1 {
+    background-image: url(../images/details/mice.jpg);
+}
 .card-body p{
     margin: 15px 0 15px 0;
     text-align: justify;
@@ -49,7 +62,7 @@
 .family-info{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: start;
 }
 .positive-traits2{
     display: flex;
@@ -147,7 +160,7 @@
     -moz-transition: .4s;
     -ms-transition: .4s;
     -o-transition: .4s;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.5);
     /*overflow: hidden;*/
     position: relative;
 }
