@@ -332,7 +332,7 @@ body{
     z-index: 1111;
 }
 .home-text{
-    width: 100%; 
+    width: 100%;
 }
 .home-text h2 {
     font-size: 21px;
@@ -1224,7 +1224,7 @@ This is the minimum CSS that you will need in order for this to work
     position: relative;
     top:0;
     -webkit-transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
-    transition:         all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);	
+    transition:         all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
 }
 .portfolio-wrapper img{
     transition: .4s;
@@ -1430,7 +1430,7 @@ This is the minimum CSS that you will need in order for this to work
     height: 100%;
     cursor: pointer;
     text-decoration: none;
-    background: transparent url('../images/blank.gif'); 
+    background: transparent url('../images/blank.gif');
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     z-index: 8040;
 }
@@ -1540,7 +1540,7 @@ This is the minimum CSS that you will need in order for this to work
     display: inline-block;
     margin-right: -100%;
     padding: 2px 20px;
-    background: transparent; 
+    background: transparent;
     background: rgba(0, 0, 0, 0.8);
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;
@@ -1578,12 +1578,12 @@ only screen and (min-device-pixel-ratio: 1.5){
 
     #fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
         background-image: url('../images/fancybox_sprite@2x.png');
-        background-size: 44px 152px; 
+        background-size: 44px 152px;
     }
 
     #fancybox-loading div {
         background-image: url('../images/fancybox_loading@2x.gif');
-        background-size: 24px 24px; 
+        background-size: 24px 24px;
     }
 }
 #fancybox-buttons {
@@ -2588,17 +2588,17 @@ blockquote {
 }
 .map {
     width:100%;
-    height:600px;	
+    height:600px;
 }
 
 .map-wrap {
-    position:relative; 
+    position:relative;
 }
 
 .overlay-map {
     width:100%;
     height: 100%;
-    position:absolute; 
+    position:absolute;
     top:0;
     z-index: 11;
 }
@@ -3406,8 +3406,23 @@ blockquote {
         height: 70px;
     }
 }
+@media screen and (max-width: 585px) {
+    .item blockquote p {
+        height: 235px;
+    }
+}
+@media screen and (max-width: 485px) {
+    .item blockquote p {
+        height: 275px;
+    }
+}
 
 @media screen and (max-width: 420px) {
+    @media screen and (max-width: 420px) {
+        .item blockquote p {
+            height: 345px;
+        }
+    }
     .message1-client h3 {
         font-size: 25px;
     }
