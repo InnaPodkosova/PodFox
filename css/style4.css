@@ -31,7 +31,6 @@ body{
     font-family: 'Lato', sans-serif;
     height: 100%;
     background-color: transparent;
-
 }
 @font-face {
     font-family: 'Glyphicons Halflings';
@@ -47,6 +46,9 @@ body{
         url("../fonts/flaticon.svg") format("svg");
     font-weight: normal;
     font-style: normal;
+}
+i {
+    font-family: fontawesome !important;
 }
 a:focus, a:hover {
     color: #fff;
@@ -265,11 +267,61 @@ button:focus{
 
 
 
+/*============================= ICON-BAR =============================*/
+
+.icon-bar {
+    position: fixed;
+    right: 0;
+    z-index: 200;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+/* Style the icon bar links */
+.icon-bar a {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 8px 10px;
+    transition: all 0.3s ease;
+    font-size: 40px;
+}
+.facebook svg path,
+.telegram svg path,
+.viber svg path,
+.youtube svg path,
+.instagram svg path
+{
+    fill: url(#rg);
+}
+.telegram,
+.viber{
+    margin-bottom: 10px;
+}
+.facebook:hover,
+.telegram:hover,
+.viber:hover {
+    border-left: 1px solid #fe0b00;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 6px 0 0 6px;
+    background-position: 0 0, 0 100% ;
+    background-repeat: no-repeat;
+    -webkit-background-size: 100% 2px;
+    -moz-background-size: 100% 2px;
+    background-size: 100% 2px;
+    background-image: -webkit-linear-gradient(left, #fe0b00 0%, #fff500 100%), -webkit-linear-gradient(left, #fe0b00 0%, #fff500 100%);
+    background-image: -moz-linear-gradient(left, #fe0b00 0%, #fff500  100%), -moz-linear-gradient(left, #fe0b00 0%, #fff500 100%);
+    background-image: -o-linear-gradient(left, #fe0b00 0%, #fff500 100%), -o-linear-gradient(left, #fe0b00 0%, #fff500 100%);
+}
+.icon-bar-mob{
+    display: none;
+}
+
 /*====================================================== HOME BACKGROUND =====================================================*/
-
-
-
-
 
 
 #home{
@@ -1776,7 +1828,8 @@ only screen and (min-device-pixel-ratio: 1.5){
     position: relative;
     width: 100%;
     margin-top: 0;
-    background-image: url(../images/bg-test2.png);
+    background-image: url(../images/bg-work.jpg);
+    background-attachment: fixed;
     background-size: cover;
     background-position: center 78%;
 }
@@ -1798,7 +1851,7 @@ only screen and (min-device-pixel-ratio: 1.5){
 
 .service-grid{
     width: 100%;
-    padding: 50px 0 85px;
+    padding: 50px 0 100px;
     margin-top: 0;
     position: relative;
     z-index: 50;
@@ -2286,7 +2339,7 @@ only screen and (min-device-pixel-ratio: 1.5){
 }
 .message1-client{
     position: relative;
-    z-index: 1111;
+    z-index: 200;
 }
 .message1-client h3 {
     font-size: 33px;
@@ -2462,8 +2515,10 @@ blockquote {
 /*============================================================== CONTACT =====================================================================*/
 
 
-
-
+.row-flex {
+    display: flex;
+    flex-flow: row wrap;
+}
 #contact {
     width: 100%;
     background-color: white ;
@@ -2562,11 +2617,9 @@ input:-ms-input-placeholder      {color:#c0392b;}
 }
 .form-control:enabled {
     box-shadow: none;
-    /*border-bottom: 1px solid transparent;*/
-    /*-moz-border-image: -moz-linear-gradient(to right, red 0%, yellow 100%);*/
-    /*-webkit-border-image: -webkit-linear-gradient(to right, red 0% , yellow 100%);*/
-    /*border-image: linear-gradient(to right, red 0%, yellow 100%);*/
-    /*border-image-slice: 1;*/
+    border-left: none;
+    border-top: none;
+    border-right: none;
     border-bottom: 2px solid transparent;
     -moz-border-image: -moz-linear-gradient(90deg, rgba(254,11,0,1) 0%, rgba(255,251,0,1) 100%);
     -webkit-border-image: -webkit-linear-gradient(90deg, rgba(254,11,0,1) 0%, rgba(255,251,0,1) 100%);
@@ -2688,6 +2741,10 @@ select:-webkit-autofill:focus {
     position: relative;
     border: 1px solid #3c3c3c;
 }
+.contact-icon svg path{
+    width: 35px;
+    padding: 8px 5px;
+}
 .contact-icon {
     font-size: 19px;
     color: white;
@@ -2721,9 +2778,6 @@ select:-webkit-autofill:focus {
     position: relative;
     margin-top: 15px;
 }
-.copyright-details{
-    background-color: #f31515;
-}
 .copyright h3 {
     margin: 0;
     padding: 16px 0;
@@ -2750,26 +2804,22 @@ select:-webkit-autofill:focus {
     display: flex;
     justify-content: center;
 }
-.social-youtube,
-.social-insta{
-    width: 130px;
-    height: 50px;
-    margin: 15px 15px 10px 15px;
-}
-.youtube,
-.instagram{
-    background-size: contain;
-    background-repeat: no-repeat;
-    height: 48px;
-}
-.youtube{
-    background-image: url("../images/youtube.png");
-}
-.instagram{
-    background-image: url("../images/instagram.png");
-}
 
 
+.copyright-details{
+    margin: 15px 0 30px;
+}
+.social-insta,
+.social-youtube{
+    width: 55px;
+    text-align: center;
+    margin-right: 15px;
+}
+.social-insta a,
+.social-youtube a{
+    text-decoration: none;
+    font-size: 40px;
+}
 
 
 /*=============================================================== RESPONSIVE ======================================================*/
@@ -2899,12 +2949,6 @@ select:-webkit-autofill:focus {
 
         margin-left: 0;
 
-    }
-    .contact-col {
-        background-color: white;
-        border: 1px solid #fff;
-        padding: 20px 15px;
-        padding-bottom: 70px;
     }
     .navbar-default.small .navbar-nav > li > a:hover {
         color: #f31515 ;
@@ -3053,13 +3097,7 @@ select:-webkit-autofill:focus {
         padding-bottom: 88px;
     }
     .contact-col {
-        background-color: white;
-        border: 1px solid #fff;
-        box-shadow: 0 0 9px 0 #e3e3e3;
-        padding: 0 70px;
-        padding-bottom: 70px;
-        margin: 0 15px;
-        margin-bottom: 50px;
+        margin: 0 15px 15px;
     }
     .navbar-default.small .navbar-nav > li > a:hover {
         color: #f31515 ;
@@ -3161,13 +3199,7 @@ select:-webkit-autofill:focus {
         list-style: none;
     }
     .contact-col {
-        background-color: white;
-        border: 1px solid #fff;
         padding: 0 20px;
-        padding-bottom: 100px;
-        margin: 0 15px;
-        box-shadow: none;
-        margin-bottom: 50px;
     }
     .about-title p {
         font-size: 14px;
@@ -3514,6 +3546,79 @@ select:-webkit-autofill:focus {
     }
 
 }
+@media screen and (max-width: 867px) {
+
+    .copyright-details {
+        margin: 5px 0 80px;
+    }
+    .copyright {
+        justify-content: space-evenly;
+    }
+    .social-insta, .social-youtube {
+        width: 55px;
+        text-align: start;
+        margin-right: 0;
+    }
+
+    /*============== ICON - BAR - MOB ===========*/
+
+    .icon-bar {
+        display: none;
+    }
+
+    .icon-bar-mob{
+        width: 100%;
+        z-index: 300;
+        position: fixed;
+        bottom: 0;
+        display: flex;
+        justify-content: space-between;
+    }
+    .icon-bg{
+        width: 33.3%;
+    }
+    .icon-mob a{
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        padding: 8px 10px;
+        transition: all 0.3s ease;
+        font-size: 33px;
+    }
+
+    .facebook-mob svg path,
+    .telegram-mob svg path,
+    .viber-mob svg path
+    {
+        fill: url(#rg);
+    }
+    .facebook-mob,
+    .telegram-mob{
+        border-top: 2px solid #fff000;
+        background-color: rgba(4, 4, 4, 0.78);
+    }
+
+    .viber-mob{
+        border-top: 2px solid #fff000;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        background-position: 0 0, 100% 0;
+        background-repeat: no-repeat;
+        -webkit-background-size: 2px 100%;
+        -moz-background-size: 2px 100%;
+        background-size: 2px 100%;
+        background-color: rgba(4, 4, 4, 0.78);
+
+        background-image: -webkit-linear-gradient(top, #FFEB3B 0%, #f31515 100%), -webkit-linear-gradient(top, #FFEB3B 0%, #fe0b00 100%);
+        background-image: -moz-linear-gradient(top, #FFEB3B 0%, #f31515 100%), -moz-linear-gradient(top, #FFEB3B 0%, #fe0b00 100%);
+        background-image: -o-linear-gradient(top, #FFEB3B 0%, #f31515 100%), -o-linear-gradient(top, #FFEB3B 0%, #fe0b00 100%);
+        background-image: linear-gradient(to bottom, #FFEB3B 0%, #f31515 100%), linear-gradient(to bottom, #FFEB3B 0%, #fe0b00 100%);
+    }
+
+
+}
+
 @media screen and (max-width: 767px) {
     .logo{
         height: 70px;
@@ -3551,6 +3656,15 @@ select:-webkit-autofill:focus {
 @media screen and (max-width: 585px) {
     .item blockquote p {
         height: 235px;
+    }
+    .social-insta a, .social-youtube a {
+        font-size: 35px;
+    }
+    .copyright-details {
+        margin: 5px 0 80px;
+    }
+    .icon-mob a {
+        font-size: 30px;
     }
 }
 @media screen and (max-width: 555px) {

@@ -14,7 +14,10 @@
     <link rel="stylesheet" href="css/animate_1.css">
     <link rel="stylesheet" href="css/site.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+
+
+    <!--<link rel="stylesheet" href="css/font-awesome.min.css">-->
     <link href="css/css.css" rel="stylesheet">
     <!--<script src="js/1b98f46f85.js"></script>-->
     <link rel="stylesheet" href="css/bootstrap.min_1.css" type="text/css" media="screen">
@@ -89,6 +92,35 @@
         </nav><!-- navbar -->
     </div><!-- end menubar-content -->
 </div><!-- end menubar -->
+
+                        <!---------- ICON BAR -------------->
+
+<svg width="0" height="0">
+    <linearGradient id="rg" x1="50%" y1="100%" x2="50%" y2="0%" >
+        <stop offset="0%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
+        <stop offset="100%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
+    </linearGradient>
+</svg>
+<div class="icon-bar">
+    <a href="#" class="telegram"><i class="fab fa-telegram-plane gradient-icon"></i></a>
+    <a href="#" class="viber"><i class="fab fa-viber gradient-icon"></i></a>
+    <a href="#" class="facebook"><i class="fab fa-facebook-f gradient-icon"></i></a>
+</div>
+
+<div class="icon-bar-mob">
+    <div class="icon-telegram icon-bg icon-mob">
+        <a href="#" class="telegram-mob"><i class="fab fa-telegram-plane gradient-icon"></i></a>
+    </div>
+    <div class="icon-viber icon-bg icon-mob">
+        <a href="#" class="viber-mob"><i class="fab fa-viber gradient-icon"></i></a>
+    </div>
+    <div class="icon-fb icon-bg icon-mob">
+        <a href="#" class="facebook-mob"><i class="fab fa-facebook-f gradient-icon"></i></a>
+    </div>
+</div>
+
+                        <!---------- ICON BAR THE END-------------->
+
 <div class="main-page-content">
     <div id="home">
         <div id="particles-js"></div>
@@ -2461,8 +2493,8 @@
             <div class="contact-grid">
                 <div class="contact-form-details">
                     <div class="container">
-                        <div class="row">
-                            <div class="col-md-8 col-sm-8  contact-col">
+                        <div class="row row-flex">
+                            <div class="col-md-8 col-sm-7 col-xs-12  contact-col">
                                 <div class="contact-title text-left ">
                                     <h3>Связаться с нами</h3>
                                     <div class="underline1"></div>
@@ -2505,37 +2537,36 @@
                                                 <div class="help-block with-errors"></div>
                                             </div><!-- end controls -->
                                         </div><!-- end form-group -->
-                                        <!--<div class="form-group">-->
-                                        <!--<div class="controls">-->
-                                        <!--<textarea id="message" rows="7" placeholder="Massage"-->
-                                        <!--class="form-control" required-->
-                                        <!--data-error="Write your message"></textarea>-->
-                                        <!--<div class="help-block with-errors"></div>-->
-                                        <!--</div>&lt;!&ndash; end controls &ndash;&gt;-->
-                                        <!--</div>&lt;!&ndash; end form-group &ndash;&gt;-->
+
                                         <button type="submit" id="submit" class="btn btn-success">Отправить</button>
                                         <div id="msgSubmit" class="h3 text-center hidden"></div>
                                         <div class="clearfix"></div>
                                     </form>
                                 </div><!-- end contact-form -->
                             </div><!-- end col-md-8 -->
-                            <div class="col-md-4 col-sm-4">
+                            <div class="col-md-4 col-sm-5 col-xs-12">
                                 <div class="contact-col-grid" data-wow-delay=".2s">
-                                    <i class="fa fa-map-marker contact-icon" aria-hidden="true"></i>
+                                    <div class="contact-icon">
+                                    <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
+                                    </div>
                                     <h3>Address</h3>
                                     <div class="underline1"></div>
                                     <div class="underline2"></div>
                                     <p>Харьков, Украина</p>
                                 </div><!-- end contact-col  -->
                                 <div class="contact-col-grid" data-wow-delay=".4s">
-                                    <i class="fa fa-envelope contact-icon" aria-hidden="true"></i>
+                                    <div class="contact-icon contact-icon">
+                                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                                    </div>
                                     <h3>Email</h3>
                                     <div class="underline1"></div>
                                     <div class="underline2"></div>
                                     <p>podfox.events@gmail.com</p>
                                 </div><!-- end contact-col  -->
                                 <div class="contact-col-grid" data-wow-delay=".6s">
-                                    <i class="fa fa-mobile contact-icon" aria-hidden="true"></i>
+                                    <div class="contact-icon contact-icon">
+                                    <i class="fas fa-mobile-alt" aria-hidden="true"></i>
+                                    </div>
                                     <h3>Phone</h3>
                                     <div class="underline1"></div>
                                     <div class="underline2"></div>
@@ -2549,13 +2580,13 @@
                 <div class="copyright-details">
                     <div class="copyright">
                         <div class="social-youtube">
-                            <a href="https://www.youtube.com/channel/UCdhM-Arn6CTBNMUb6Io_vuw">
-                                <div class="youtube"></div>
+                            <a href="https://www.youtube.com/channel/UCdhM-Arn6CTBNMUb6Io_vuw" class="youtube">
+                                <i class="fab fa-youtube"></i>
                             </a>
                         </div>
                         <div class="social-insta">
-                            <a href="#">
-                                <div class="instagram"></div>
+                            <a href="#" class="instagram">
+                                <i class="fab fa-instagram"></i>
                             </a>
                         </div>
                     </div><!-- end copyright -->
@@ -2583,6 +2614,7 @@
 <script src="js/animation.js"></script>
 <script type="text/javascript" src="js/moment.min.js"></script>
 <script type="text/javascript" src="js/bootstrap-datetimepicker.min.js"></script>
+<script defer src="js/font-awesome.js"></script>
 
 <script>
     $(function () {
