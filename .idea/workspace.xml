@@ -4,8 +4,8 @@
     <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tab-accordio.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tab-accordio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/details/city/city-1.webp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,14 +19,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.41425937">
+    <splitter split-orientation="horizontal" split-proportion="0.33988938">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="435">
-                  <caret line="2146" column="46" lean-forward="true" selection-start-line="2146" selection-start-column="46" selection-end-line="2146" selection-end-column="46" />
+                <state relative-caret-position="15">
+                  <caret line="2136" column="46" selection-start-line="2136" selection-start-column="46" selection-end-line="2136" selection-end-column="46" />
                   <folding>
                     <element signature="n#style#0;n#stop#0;n#linearGradient#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#stop#1;n#linearGradient#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -38,7 +38,7 @@
           <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
+                <state relative-caret-position="2115">
                   <caret line="141" column="48" selection-start-line="141" selection-start-column="48" selection-end-line="141" selection-end-column="48" />
                 </state>
               </provider>
@@ -51,8 +51,8 @@
           <file leaf-file-name="style4.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style4.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="327">
-                  <caret line="935" column="28" selection-start-line="935" selection-start-column="28" selection-end-line="935" selection-end-column="28" />
+                <state relative-caret-position="182">
+                  <caret line="3031" column="23" selection-start-line="3031" selection-start-column="23" selection-end-line="3031" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -60,8 +60,8 @@
           <file leaf-file-name="tab-accordio.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
+                <state relative-caret-position="-780">
+                  <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
@@ -81,8 +81,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>link</find>
-      <find>Наша га</find>
       <find>team</find>
       <find>обсудим</find>
       <find>item</find>
@@ -111,6 +109,8 @@
       <find>.form-control:</find>
       <find>logo</find>
       <find>gradient-text</find>
+      <find>copyright-de</find>
+      <find>.navbar-default.small .navbar-nav &gt; li &gt; a:hover</find>
     </findStrings>
     <replaceStrings>
       <replace>bus-pane-A</replace>
@@ -136,7 +136,6 @@
         <option value="$PROJECT_DIR$/css/gallery-img.css" />
         <option value="$PROJECT_DIR$/css/slick.css" />
         <option value="$PROJECT_DIR$/css/slick-theme.css" />
-        <option value="$PROJECT_DIR$/css/tab-accordio.css" />
         <option value="$PROJECT_DIR$/js/bootstrap-datetimepicker.min.js" />
         <option value="$PROJECT_DIR$/css/bootstrap-datetimepicker.min.css" />
         <option value="$PROJECT_DIR$/js/moment.min.js" />
@@ -144,6 +143,7 @@
         <option value="$PROJECT_DIR$/js/font-awesome.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/tab-accordio.css" />
         <option value="$PROJECT_DIR$/css/style4.css" />
       </list>
     </option>
@@ -280,12 +280,13 @@
       <workItem from="1582999270412" duration="14203000" />
       <workItem from="1583432161508" duration="14509000" />
       <workItem from="1583665583355" duration="33679000" />
-      <workItem from="1583754809446" duration="6973000" />
+      <workItem from="1583754809446" duration="7407000" />
+      <workItem from="1584036991607" duration="6461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196593000" />
+    <option name="totallyTimeSpent" value="203488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
@@ -298,7 +299,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1611842" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -641,13 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/slick-theme.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -664,15 +658,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="2115">
           <caret line="141" column="48" selection-start-line="141" selection-start-column="48" selection-end-line="141" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="2146" column="46" lean-forward="true" selection-start-line="2146" selection-start-column="46" selection-end-line="2146" selection-end-column="46" />
+        <state relative-caret-position="15">
+          <caret line="2136" column="46" selection-start-line="2136" selection-start-column="46" selection-end-line="2136" selection-end-column="46" />
           <folding>
             <element signature="n#style#0;n#stop#0;n#linearGradient#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#stop#1;n#linearGradient#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -680,10 +674,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="935" column="28" selection-start-line="935" selection-start-column="28" selection-end-line="935" selection-end-column="28" />
+        <state relative-caret-position="182">
+          <caret line="3031" column="23" selection-start-line="3031" selection-start-column="23" selection-end-line="3031" selection-end-column="23" />
         </state>
       </provider>
     </entry>
