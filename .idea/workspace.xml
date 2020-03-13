@@ -4,8 +4,6 @@
     <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/tab-accordio.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tab-accordio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/city/city-1.webp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,27 +17,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.33988938">
+    <splitter split-orientation="horizontal" split-proportion="0.19789612">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="2136" column="46" selection-start-line="2136" selection-start-column="46" selection-end-line="2136" selection-end-column="46" />
-                  <folding>
-                    <element signature="n#style#0;n#stop#0;n#linearGradient#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#stop#1;n#linearGradient#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/main.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2115">
-                  <caret line="141" column="48" selection-start-line="141" selection-start-column="48" selection-end-line="141" selection-end-column="48" />
+                <state relative-caret-position="-90">
+                  <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
                 </state>
               </provider>
             </entry>
@@ -51,8 +36,8 @@
           <file leaf-file-name="style4.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style4.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="182">
-                  <caret line="3031" column="23" selection-start-line="3031" selection-start-column="23" selection-end-line="3031" selection-end-column="23" />
+                <state relative-caret-position="297">
+                  <caret line="867" column="11" lean-forward="true" selection-start-line="867" selection-start-column="11" selection-end-line="867" selection-end-column="11" />
                 </state>
               </provider>
             </entry>
@@ -60,8 +45,8 @@
           <file leaf-file-name="tab-accordio.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-780">
-                  <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+                <state relative-caret-position="126">
+                  <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -74,43 +59,41 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>logo</find>
+      <find>creativity-row</find>
+      <find>font</find>
+      <find>pane-A</find>
+      <find>stats</find>
+      <find>#service</find>
+      <find>html</find>
+      <find>@</find>
+      <find>@media</find>
+      <find>.cd-headline.clip</find>
+      <find>detai</find>
+      <find>tab-content</find>
+      <find>Наша гал</find>
+      <find>js_</find>
+      <find>famil</find>
+      <find>family/</find>
+      <find>home</find>
+      <find>Наша г</find>
+      <find>link</find>
+      <find>Наша га</find>
       <find>team</find>
       <find>обсудим</find>
-      <find>item</find>
-      <find>.item</find>
-      <find>#main-slider</find>
+      <find>детский день ро</find>
+      <find>#counte</find>
       <find>#counter</find>
-      <find>детский день рождения</find>
-      <find>выпускной</find>
-      <find>paty1</find>
-      <find>.creativity-grid</find>
-      <find>service</find>
-      <find>Семейные</find>
-      <find>.Family</find>
-      <find>предло</find>
-      <find>традици</find>
-      <find>оформлени</find>
-      <find>Master-classes</find>
-      <find>.service-details-f</find>
-      <find>work</find>
-      <find>contact-col</find>
-      <find>gradient-icon</find>
-      <find>scro</find>
-      <find>font</find>
-      <find>my-</find>
-      <find>cd-words-wrapper</find>
-      <find>.form-control:</find>
-      <find>logo</find>
-      <find>gradient-text</find>
-      <find>copyright-de</find>
-      <find>.navbar-default.small .navbar-nav &gt; li &gt; a:hover</find>
+      <find>дополните</find>
+      <find>дополни</find>
+      <find>детали</find>
     </findStrings>
     <replaceStrings>
       <replace>bus-pane-A</replace>
@@ -134,16 +117,11 @@
         <option value="$PROJECT_DIR$/css/fancyBox.css" />
         <option value="$PROJECT_DIR$/js/fancyBox.js" />
         <option value="$PROJECT_DIR$/css/gallery-img.css" />
-        <option value="$PROJECT_DIR$/css/slick.css" />
         <option value="$PROJECT_DIR$/css/slick-theme.css" />
-        <option value="$PROJECT_DIR$/js/bootstrap-datetimepicker.min.js" />
-        <option value="$PROJECT_DIR$/css/bootstrap-datetimepicker.min.css" />
-        <option value="$PROJECT_DIR$/js/moment.min.js" />
-        <option value="$PROJECT_DIR$/css/font-awesome.min.css" />
-        <option value="$PROJECT_DIR$/js/font-awesome.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/slick.css" />
         <option value="$PROJECT_DIR$/css/tab-accordio.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style4.css" />
       </list>
     </option>
@@ -161,9 +139,10 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="width" value="1910" />
-    <option name="height" value="1039" />
+    <option name="x" value="1920" />
+    <option name="y" value="-1" />
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectId" id="1W7O6KwAqanz9zFFLLxvlnRzm82" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -177,18 +156,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="PodFok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PodFok" type="462c0819:PsiDirectoryNode" />
+              <item name="Podfox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Podfox" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PodFok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PodFok" type="462c0819:PsiDirectoryNode" />
+              <item name="Podfox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Podfox" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PodFok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PodFok" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,6 +188,237 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/font-awesome.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/style4.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/tab-accordio.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/message23.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/test2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/main.js</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/break-dance.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/001-wedding-invitation.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/002-rings.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/003-ring.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/004-wedding-cake.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/005-arch-love.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/006-gift.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/007-smartphone.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/008-camera.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/009-key.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/010-heart.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/011-hands.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/012-groom.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/013-video-camera.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/014-bouquet.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/015-door-hanger.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/016-church.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/017-champagne.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/018-calendar.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/019-bride.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/020-double-bed.eps</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/license/license.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/001-wedding-invitation.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/002-rings.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/003-ring.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/004-wedding-cake.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/005-arch-love.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/006-gift.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/007-smartphone.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/008-camera.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/009-key.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/010-heart.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/011-hands.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/012-groom.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/013-video-camera.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/014-bouquet.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/015-door-hanger.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/016-church.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/017-champagne.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/018-calendar.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/019-bride.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/020-double-bed.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/001-wedding-invitation.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/002-rings.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/003-ring.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/004-wedding-cake.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/005-arch-love.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/006-gift.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/007-smartphone.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/008-camera.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/009-key.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/010-heart.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/011-hands.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/012-groom.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/013-video-camera.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/014-bouquet.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/015-door-hanger.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/016-church.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/017-champagne.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/018-calendar.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/019-bride.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/020-double-bed.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/radio.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/001-wedding-invitation.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/002-rings.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/003-ring.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/004-wedding-cake.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/005-arch-love.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/006-gift.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/007-smartphone.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/008-camera.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/009-key.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/010-heart.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/011-hands.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/012-groom.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/013-video-camera.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/014-bouquet.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/015-door-hanger.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/016-church.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/017-champagne.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/018-calendar.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/019-bride.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/020-double-bed.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/teamwork.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/bootstrap-datetimepicker.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bg-f.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bg-work.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/break-dance.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/call.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/details/city/city-1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/dj.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/meditation.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/network.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/plane.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/radio.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/teamwork.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/test1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/test4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/travel.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/wedding2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/youtube-brands.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/youtube.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/youtube2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/bootstrap-datetimepicker.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/font-awesome.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/moment.min.js</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bussines.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/details/city/city-1.webp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/happy.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/instagram.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/party.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/test.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/wedding.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/youtube.png</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -264,53 +469,50 @@
       <workItem from="1579248873722" duration="21000" />
       <workItem from="1579271785109" duration="2337000" />
       <workItem from="1580044755750" duration="15537000" />
-      <workItem from="1581358953600" duration="6613000" />
-      <workItem from="1581444066901" duration="9240000" />
-      <workItem from="1581529905851" duration="599000" />
-      <workItem from="1581621465035" duration="5747000" />
-      <workItem from="1582048944209" duration="6925000" />
-      <workItem from="1582140007033" duration="1273000" />
-      <workItem from="1582362525221" duration="599000" />
-      <workItem from="1582571537639" duration="4208000" />
-      <workItem from="1582655369298" duration="7457000" />
-      <workItem from="1582747165767" duration="4066000" />
-      <workItem from="1582832928722" duration="4083000" />
-      <workItem from="1582925302921" duration="624000" />
-      <workItem from="1582968307298" duration="3262000" />
-      <workItem from="1582999270412" duration="14203000" />
-      <workItem from="1583432161508" duration="14509000" />
-      <workItem from="1583665583355" duration="33679000" />
-      <workItem from="1583754809446" duration="7407000" />
-      <workItem from="1584036991607" duration="6461000" />
+      <workItem from="1583325683583" duration="6608000" />
+      <workItem from="1583335433362" duration="1865000" />
+      <workItem from="1584100199504" duration="1137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203488000" />
+    <option name="totallyTimeSpent" value="69004000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
+    <frame x="1920" y="-1" width="1920" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14232999" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1611842" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20633188" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.039473683" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20734341" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +558,41 @@
     <state x="2658" y="275" width="424" height="479" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1578558319039" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12195">
+          <caret line="813" column="15" selection-start-line="813" selection-start-column="15" selection-end-line="813" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" selection-start-line="68" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="12" lean-forward="true" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style4.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3015">
@@ -558,6 +795,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate-header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js_1" />
     <entry file="file://$PROJECT_DIR$/js/fancybox-script.js" />
     <entry file="file://$PROJECT_DIR$/css/fancyBox.css">
@@ -585,6 +829,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="27950" selection-start-line="11" selection-start-column="27950" selection-end-line="11" selection-end-column="27950" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -592,99 +839,48 @@
     <entry file="file://$PROJECT_DIR$/js/slick.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/moment.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2335">
-          <caret line="4601" column="5" selection-start-line="4601" selection-start-column="5" selection-end-line="4601" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap-datetimepicker.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4871" selection-start-line="4" selection-start-column="4871" selection-end-line="4" selection-end-column="4871" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap-datetimepicker.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret column="23082" selection-start-column="23082" selection-end-column="23082" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/font-awesome.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="4" column="799370" selection-start-line="4" selection-start-column="799370" selection-end-line="4" selection-end-column="799370" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="4" column="329" selection-start-line="4" selection-start-column="329" selection-end-line="4" selection-end-column="329" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/animate-header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2739">
-          <caret line="1222" column="6" lean-forward="true" selection-start-line="1222" selection-start-column="6" selection-end-line="1222" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/slick-theme.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="126" column="20" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+        <state relative-caret-position="786">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/slick.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="172" column="19" selection-start-line="172" selection-start-column="19" selection-end-line="172" selection-end-column="19" />
+        <state relative-caret-position="725">
+          <caret line="166" column="18" selection-start-line="166" selection-start-column="18" selection-end-line="166" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2115">
-          <caret line="141" column="48" selection-start-line="141" selection-start-column="48" selection-end-line="141" selection-end-column="48" />
+        <state relative-caret-position="590">
+          <caret line="153" column="31" lean-forward="true" selection-start-line="153" selection-start-column="31" selection-end-line="153" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/instagram.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2136" column="46" selection-start-line="2136" selection-start-column="46" selection-end-line="2136" selection-end-column="46" />
-          <folding>
-            <element signature="n#style#0;n#stop#0;n#linearGradient#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#stop#1;n#linearGradient#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-780">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="-90">
+          <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="3031" column="23" selection-start-line="3031" selection-start-column="23" selection-end-line="3031" selection-end-column="23" />
+        <state relative-caret-position="297">
+          <caret line="867" column="11" lean-forward="true" selection-start-line="867" selection-start-column="11" selection-end-line="867" selection-end-column="11" />
         </state>
       </provider>
     </entry>
