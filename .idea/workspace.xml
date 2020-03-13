@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="" />
+    <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fixparallax.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fixparallax.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,14 +17,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6771861">
+    <splitter split-orientation="horizontal" split-proportion="0.3668639">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="301">
-                  <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="52" />
+                <state relative-caret-position="198">
+                  <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
                 </state>
               </provider>
             </entry>
@@ -28,8 +32,8 @@
           <file leaf-file-name="fixparallax.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/fixparallax.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="36">
-                  <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+                <state relative-caret-position="126">
+                  <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -41,8 +45,8 @@
           <file leaf-file-name="style4.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style4.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="279">
-                  <caret line="877" selection-start-line="877" selection-end-line="877" selection-end-column="8" />
+                <state relative-caret-position="243">
+                  <caret line="2338" column="23" lean-forward="true" selection-start-line="2338" selection-start-column="23" selection-end-line="2338" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -99,6 +103,8 @@
       <find>дополни</find>
       <find>детали</find>
       <find>#counter</find>
+      <find>service</find>
+      <find>content2</find>
     </findStrings>
     <replaceStrings>
       <replace>bus-pane-A</replace>
@@ -126,9 +132,9 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/slick.css" />
         <option value="$PROJECT_DIR$/css/tab-accordio.css" />
-        <option value="$PROJECT_DIR$/css/style4.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/fixparallax.css" />
+        <option value="$PROJECT_DIR$/css/style4.css" />
       </list>
     </option>
   </component>
@@ -195,237 +201,6 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/font-awesome.min.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/style4.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/tab-accordio.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/message23.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/test2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/main.js</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/break-dance.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/001-wedding-invitation.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/002-rings.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/003-ring.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/004-wedding-cake.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/005-arch-love.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/006-gift.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/007-smartphone.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/008-camera.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/009-key.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/010-heart.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/011-hands.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/012-groom.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/013-video-camera.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/014-bouquet.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/015-door-hanger.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/016-church.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/017-champagne.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/018-calendar.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/019-bride.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/eps/020-double-bed.eps</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/license/license.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/001-wedding-invitation.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/002-rings.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/003-ring.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/004-wedding-cake.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/005-arch-love.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/006-gift.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/007-smartphone.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/008-camera.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/009-key.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/010-heart.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/011-hands.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/012-groom.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/013-video-camera.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/014-bouquet.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/015-door-hanger.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/016-church.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/017-champagne.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/018-calendar.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/019-bride.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/png/020-double-bed.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/001-wedding-invitation.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/002-rings.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/003-ring.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/004-wedding-cake.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/005-arch-love.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/006-gift.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/007-smartphone.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/008-camera.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/009-key.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/010-heart.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/011-hands.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/012-groom.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/013-video-camera.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/014-bouquet.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/015-door-hanger.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/016-church.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/017-champagne.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/018-calendar.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/019-bride.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/psd/020-double-bed.psd</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/radio.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/001-wedding-invitation.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/002-rings.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/003-ring.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/004-wedding-cake.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/005-arch-love.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/006-gift.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/007-smartphone.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/008-camera.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/009-key.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/010-heart.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/011-hands.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/012-groom.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/013-video-camera.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/014-bouquet.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/015-door-hanger.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/016-church.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/017-champagne.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/018-calendar.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/019-bride.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/svg/020-double-bed.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/968328-wedding/teamwork.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/bootstrap-datetimepicker.min.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bg-f.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bg-work.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/break-dance.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/call.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/details/city/city-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/dj.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/meditation.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/network.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/plane.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/radio.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/teamwork.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/test1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/test4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/travel.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/wedding2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/youtube-brands.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/youtube.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/youtube2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/bootstrap-datetimepicker.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/font-awesome.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/moment.min.js</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bussines.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/details/city/city-1.webp</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/happy.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/instagram.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/party.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/test.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/wedding.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/youtube.png</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -477,47 +252,37 @@
       <workItem from="1580044755750" duration="15537000" />
       <workItem from="1583325683583" duration="6608000" />
       <workItem from="1583335433362" duration="1865000" />
-      <workItem from="1584100199504" duration="3711000" />
+      <workItem from="1584100199504" duration="4375000" />
+      <workItem from="1584108691295" duration="1383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71578000" />
+    <option name="totallyTimeSpent" value="73625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-1" width="1920" height="1040" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20633188" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20633188" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.039473683" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20734341" />
-      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -858,9 +623,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/instagram.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/instagram.png" />
     <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -870,22 +633,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="52" />
+        <state relative-caret-position="198">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="877" selection-start-line="877" selection-end-line="877" selection-end-column="8" />
+        <state relative-caret-position="243">
+          <caret line="2338" column="23" lean-forward="true" selection-start-line="2338" selection-start-column="23" selection-end-line="2338" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/fixparallax.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="126">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
