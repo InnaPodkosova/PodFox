@@ -883,7 +883,7 @@ button:focus{
     top: 0;
     left: 0;
     z-index: 1;
-    background-color: rgba(0, 0, 0, 0.68);
+    background-color: rgba(0, 0, 0, 0.58);
 }
 .work-statistics {
     margin-bottom: 30px;
@@ -3715,9 +3715,9 @@ select:-webkit-autofill:focus {
         font-size: 23px;
         line-height: 35px;
     }
-    #counter:after {
-        background-attachment: fixed;
-    }
+    /*#counter:after {*/
+        /*background-attachment: fixed;*/
+    /*}*/
 
 }
 
