@@ -1,3 +1,5 @@
-#counter {
-    background-attachment: scroll !important;
+@media screen and (max-width: 520px) {
+    #counter {
+        background-attachment: scroll !important;
+    }
 }

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
-    </list>
+    <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,11 +16,20 @@
     <splitter split-orientation="horizontal" split-proportion="0.6771861">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+                <state relative-caret-position="301">
+                  <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="52" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="fixparallax.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/fixparallax.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="36">
+                  <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -34,8 +41,8 @@
           <file leaf-file-name="style4.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style4.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="333">
-                  <caret line="880" column="17" lean-forward="true" selection-start-line="880" selection-start-column="17" selection-end-line="880" selection-end-column="17" />
+                <state relative-caret-position="279">
+                  <caret line="877" selection-start-line="877" selection-end-line="877" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
@@ -119,8 +126,9 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/slick.css" />
         <option value="$PROJECT_DIR$/css/tab-accordio.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style4.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/fixparallax.css" />
       </list>
     </option>
   </component>
@@ -469,16 +477,15 @@
       <workItem from="1580044755750" duration="15537000" />
       <workItem from="1583325683583" duration="6608000" />
       <workItem from="1583335433362" duration="1865000" />
-      <workItem from="1584100199504" duration="2951000" />
+      <workItem from="1584100199504" duration="3711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70818000" />
+    <option name="totallyTimeSpent" value="71578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-1" width="1920" height="1040" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -556,13 +563,6 @@
     <state x="2658" y="275" width="424" height="479" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1578558319039" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style4.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12195">
@@ -870,15 +870,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        <state relative-caret-position="301">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="880" column="17" lean-forward="true" selection-start-line="880" selection-start-column="17" selection-end-line="880" selection-end-column="17" />
+        <state relative-caret-position="279">
+          <caret line="877" selection-start-line="877" selection-end-line="877" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fixparallax.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
