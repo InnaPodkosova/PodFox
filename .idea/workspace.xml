@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,8 +34,8 @@
           <file leaf-file-name="style4.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style4.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="297">
-                  <caret line="867" column="11" lean-forward="true" selection-start-line="867" selection-start-column="11" selection-end-line="867" selection-end-column="11" />
+                <state relative-caret-position="315">
+                  <caret line="868" column="11" lean-forward="true" selection-start-line="868" selection-start-column="11" selection-end-line="868" selection-end-column="11" />
                 </state>
               </provider>
             </entry>
@@ -471,18 +469,18 @@
       <workItem from="1580044755750" duration="15537000" />
       <workItem from="1583325683583" duration="6608000" />
       <workItem from="1583335433362" duration="1865000" />
-      <workItem from="1584100199504" duration="1137000" />
+      <workItem from="1584100199504" duration="1676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69004000" />
+    <option name="totallyTimeSpent" value="69543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-1" width="1920" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -491,7 +489,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20633188" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20633188" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -879,8 +877,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="867" column="11" lean-forward="true" selection-start-line="867" selection-start-column="11" selection-end-line="867" selection-end-column="11" />
+        <state relative-caret-position="315">
+          <caret line="868" column="11" lean-forward="true" selection-start-line="868" selection-start-column="11" selection-end-line="868" selection-end-column="11" />
         </state>
       </provider>
     </entry>

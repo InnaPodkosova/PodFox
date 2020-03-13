@@ -862,6 +862,7 @@ button:focus{
 #counter{
     background: url(../images/bg12.jpg) no-repeat center center fixed;
     margin: 0;
+    display: table;
     height: 100%;
     position: relative;
     width: 100%;
