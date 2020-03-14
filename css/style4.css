@@ -198,14 +198,14 @@ button:focus{
     padding: 10px 0;
 }
 .navbar-default .navbar-nav > li > a:hover {
-    color: #ffb100 ;
+    color: #ff3800 ;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
     color: white;
     background-color: transparent;
 }
 .navbar-default.small .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    color: #ff5700 !important;
+    color: #ffe700 !important;
     background-color: transparent;
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
@@ -615,7 +615,13 @@ button:focus{
     content: '';
     top: 0;
     left: 0;
-    background-color: #f31515;
+    background: -moz-linear-gradient(181deg, rgba(255,255,0,1) 0%, rgba(255,0,0,1) 100%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(255,0,0,1)), color-stop(100%, rgba(255,255,0,1))); /* safari4+,chrome */
+    background: -webkit-linear-gradient(181deg, rgba(255,255,0,1) 0%, rgba(255,0,0,1) 100%); /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(181deg, rgba(255,255,0,1) 0%, rgba(255,0,0,1) 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(181deg, rgba(255,255,0,1) 0%, rgba(255,0,0,1) 100%); /* ie10+ */
+    background: linear-gradient(269deg, rgba(255,255,0,1) 0%, rgba(255,0,0,1) 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', endColorstr='#ffff00',GradientType=1 ); /* ie6-9 */
     width: 0%;
     height: 100%;
     z-index: 1;
@@ -1261,6 +1267,9 @@ This is the minimum CSS that you will need in order for this to work
     font-size: 32px;
     color: white;
     text-align: center;
+}
+.icon-rotate{
+    transform: rotate(180deg);
 }
 .portfolio-wrapper:hover .overlay{
     transform: scale(1);
@@ -2622,14 +2631,11 @@ input:-ms-input-placeholder      {color:#c0392b;}
     font-size: 13px;
     line-height: 1.42857143;
     color: #fffc;
-    background-image: none;
-    border: 1px solid black;
-    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
-    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
-    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
-    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
-    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
-    border-color: transparent;
+    border-bottom: 2px solid transparent;
+    -o-border-image: -o-linear-gradient(left, rgba(254,11,0,1) 0%, rgba(255,251,0,1) 100%);
+    border-image: -webkit-gradient(linear, left top, right top, from(rgba(254,11,0,1)), to(rgba(255,251,0,1)));
+    border-image: linear-gradient(90deg, rgba(254,11,0,1) 0%, rgba(255,251,0,1) 100%);
+    border-image-slice: 1;
     background-color: rgba(255, 255, 255, 0.02);
     text-align: left;
     box-shadow: 0 0 2px 0 #dadada;
@@ -2841,7 +2847,50 @@ select:-webkit-autofill:focus {
     font-size: 40px;
 }
 
+/*=============================================================== DATEPICKER ======================================================*/
 
+
+.dropdown-menu {
+    background-color: rgba(6, 6, 6, 0.95);
+    border: 1px solid rgba(106, 93, 93, 0.55)!important;
+}
+.bootstrap-datetimepicker-widget.top:after {
+    border-top: 6px solid rgba(106, 93, 93, 0.55) !important;
+}
+.bootstrap-datetimepicker-widget thead tr:first-child th {
+    color: #FFEB3B;
+}
+.bootstrap-datetimepicker-widget thead tr:first-child th:hover {
+    background: rgba(238, 238, 238, 0.18)!important;
+}
+.bootstrap-datetimepicker-widget .dow {
+    color: #FF5722;
+}
+.bootstrap-datetimepicker-widget td.day {
+    color: #FFFFFF;
+}
+.bootstrap-datetimepicker-widget td.day:hover, .bootstrap-datetimepicker-widget td.hour:hover, .bootstrap-datetimepicker-widget td.minute:hover, .bootstrap-datetimepicker-widget td.second:hover {
+    background: rgba(238, 238, 238, 0.18)!important;
+}
+.bootstrap-datetimepicker-widget td.active, .bootstrap-datetimepicker-widget td.active:hover {
+    background-color: rgba(255, 235, 59, 0.19)!important;
+}
+.bootstrap-datetimepicker-widget td.today:before {
+    border-bottom: 7px solid #FF5722!important;
+}
+.glyphicon {
+    color: #FFEB3B;
+}
+.bootstrap-datetimepicker-widget .timepicker-hour, .bootstrap-datetimepicker-widget .timepicker-minute, .bootstrap-datetimepicker-widget .timepicker-second {
+    color: #fff;
+}
+.bootstrap-datetimepicker-widget td span:hover {
+    background: rgba(238, 238, 238, 0.18)!important;
+}
+
+.bootstrap-datetimepicker-widget ul.list-unstyled li div.timepicker div.timepicker-picker table.table-condensed tbody>tr>td {
+    color: #fff;
+}
 /*=============================================================== RESPONSIVE ======================================================*/
 
 
@@ -3587,7 +3636,7 @@ select:-webkit-autofill:focus {
 
     .icon-bar-mob{
         width: 100%;
-        z-index: 300;
+        z-index: 1200;
         position: fixed;
         bottom: 0;
         display: flex;
