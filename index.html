@@ -2431,12 +2431,13 @@
                                         </div><!-- end form-group -->
                                         <div class="form-group">
                                             <div id="datetimepicker2" class="controls">
-                                                <!--<input class="datepicker" data-date-format="mm/dd/yyyy">-->
 
                                                 <input type="text" id="msg_subject" class="form-control"
-                                                       data-date-format="mm/dd/yyyy" placeholder="Мероприятие" required
+                                                        placeholder="Дата" required
                                                        data-error="Пожалуйста, укажите мероприятие">
+
                                                 <div class="help-block with-errors"></div>
+
                                             </div><!-- end controls -->
                                         </div><!-- end form-group -->
 
@@ -2500,6 +2501,7 @@
 
 <!-- ================================ JQUERY =============================== -->
 
+<script type="text/javascript" src="js/moment-with-locales.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/wow-anim.js"></script>
@@ -2514,7 +2516,6 @@
 <script src="js/particles.js"></script>
 <script src="js/app.js"></script>
 <script src="js/animation.js"></script>
-<script type="text/javascript" src="js/moment.min.js"></script>
 <script type="text/javascript" src="js/bootstrap-datetimepicker.min.js"></script>
 
 <script defer src="js/font-awesome.js"></script>
@@ -2522,12 +2523,10 @@
 <script>
     $(function () {
         $('#datetimepicker2').datetimepicker({
-            locale: 'ru'
+            language: 'ru'
         });
     });
-
 </script>
-<!--<script type="text/javascript" src="js/bootstrap-datetimepicker.ru.js"></script>-->
 <script>
     function openCity(evt, cityName) {
         var i, x, tablinks;
