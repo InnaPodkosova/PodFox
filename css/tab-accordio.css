@@ -194,6 +194,8 @@
     text-align: justify;
     color: #f02a2a;
 }
+
+
 @media(max-width:991px) {
     .positive-traits {
         justify-content: start;

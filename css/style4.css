@@ -3766,6 +3766,7 @@ select:-webkit-autofill:focus {
     }
 
 }
+/* CSS for iOS devices */
 @supports (-webkit-touch-callout: none) {
     #counter,
     #message-content2,
@@ -3781,6 +3782,10 @@ select:-webkit-autofill:focus {
     #message-content1{
         background-attachment: fixed;
     }
+}
+/* CSS for IE devices */
+@supports (-webkit-appearance:none) {
+
 }
 
 
