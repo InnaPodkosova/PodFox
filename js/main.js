@@ -75,7 +75,7 @@
     $('.works-slideshow .team-item').each(function() {
         var slider = $(this);
         slider.slick({
-            arrows: true,
+            arrows: false,
             dots: true,
             accessibility: false,
             infinite: true,
@@ -90,6 +90,15 @@
                     slidesToScroll: 2
                 }
             },
+                {
+                    breakpoint: 565,
+                    settings: {
+                        arrows: true,
+                        dots: false,
+                        slidesToShow: 2,
+                        slidesToScroll: 2
+                    }
+                },
                 {
                     breakpoint: 520,
                     settings: {
@@ -114,7 +123,7 @@
         slidesToScroll: 3,
         autoplay: false,
         autoplaySpeed: 6000,
-        dots: false,
+        dots: true,
         infinite: true,
         adaptiveHeight: true,
         arrows: false,

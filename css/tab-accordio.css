@@ -20,6 +20,7 @@
 }
 .city {
     background-image: url(../images/details/city/city-1.jpg);
+    background-position-y: 220px;
 }
 .family1 {
     background-image: url(../images/details/family/w3.jpg);
@@ -195,6 +196,11 @@
     color: #f02a2a;
 }
 
+@media(max-width:1190px) {
+    .city {
+        background-position-y: 190px;
+    }
+}
 
 @media(max-width:991px) {
     .positive-traits {
@@ -236,6 +242,9 @@
 }
 
 @media(max-width:767px){
+    .city {
+        background-position-y: 175px;
+    }
     .events-content > .tab-pane {
         display: block !important;
         opacity: 1;
