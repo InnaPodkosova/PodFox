@@ -102,6 +102,8 @@
                 {
                     breakpoint: 520,
                     settings: {
+                        arrows: true,
+                        dots: false,
                         slidesToShow: 1,
                         slidesToScroll: 1
                     }
@@ -121,7 +123,7 @@
     $('#main-slider-video').slick({
         slidesToShow: 3,
         slidesToScroll: 3,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 6000,
         dots: true,
         infinite: true,
@@ -137,11 +139,21 @@
             }
         },
             {
+            breakpoint: 565,
+            settings: {
+                arrows: true,
+                dots: false,
+                slidesToShow: 2,
+                slidesToScroll: 2
+            }
+        },
+            {
                 breakpoint: 520,
                 settings: {
                     slidesToShow: 1,
                     slidesToScroll: 1,
-                    dots: true,
+                    arrows: true,
+                    dots: false,
                     autoplay: true,
                 }
             }
@@ -150,12 +162,13 @@
 
     /*============================================ gallery logo clients==========================================*/
 
-
     $('.our-clients').slick({
         slidesToShow: 3,
-        slidesToScroll: 1,
+        slidesToScroll: 3,
         autoplay: true,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 6000,
+        infinite: true,
+        adaptiveHeight: true,
         arrows: false,
 
         responsive: [
@@ -163,8 +176,7 @@
                 breakpoint: 1024,
                 settings: {
                     slidesToShow: 3,
-                    slidesToScroll: 3,
-                    dots: false
+                    slidesToScroll: 3
                 }
             },
             {
