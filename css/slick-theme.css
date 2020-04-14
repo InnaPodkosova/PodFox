@@ -19,28 +19,29 @@
 .slick-prev,
 .slick-next
 {
+    background-image: url(../images/arrows.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    /*transform: rotate(-90deg);*/
+    /*-webkit-transform: rotate(90deg);*/
+    /*-ms-transform: rotate(90deg);*/
+    /*transform: rotate(90deg);*/
     font-size: 0;
     line-height: 0;
     z-index: 50;
-
     position: absolute;
-    top: 50%;
-
+    top: 45%;
     display: block;
-
-    width: 20px;
-    height: 20px;
+    width: 35px;
+    height: 35px;
     padding: 0;
     -webkit-transform: translate(0, -50%);
     -ms-transform: translate(0, -50%);
     transform: translate(0, -50%);
-
     cursor: pointer;
-
-    color: transparent;
     border: none;
     outline: none;
-    background: transparent;
 }
 .slick-prev:hover,
 .slick-prev:focus,
@@ -49,7 +50,7 @@
 {
     color: transparent;
     outline: none;
-    background: transparent;
+    background-color: transparent;
 }
 .slick-prev:hover:before,
 .slick-prev:focus:before,
@@ -77,10 +78,14 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+.slick-next{
+    transform: rotate(-90deg);
+    right: 10px;
+}
 .slick-prev
 {
-    left: -25px;
+    transform: rotate(90deg);
+    left: 10px;
 }
 [dir='rtl'] .slick-prev
 {
@@ -96,10 +101,6 @@
     /*content: 'в†’';*/
 }
 
-.slick-next
-{
-    right: -25px;
-}
 [dir='rtl'] .slick-next
 {
     right: auto;

@@ -940,7 +940,13 @@ button:focus{
     margin: 30px 0;
 }
 .slick-prev, .slick-next{
-    display: none!important;
+    /*display: none!important;*/
+}
+.slick-prev{
+    left: 30px;
+}
+.slick-next{
+    right: 30px;
 }
 
 
@@ -3766,5 +3772,30 @@ select:-webkit-autofill:focus {
     }
 
 }
+/* CSS for iOS devices */
+@supports (-webkit-touch-callout: none) {
+    #counter,
+    #message-content2,
+    #service,
+    #message-content1{
+        background-attachment: scroll;
+    }}
+@supports not (-webkit-touch-callout: none) {
+    /* CSS for other than iOS devices */
+    #counter,
+    #message-content2,
+    #service,
+    #message-content1{
+        background-attachment: fixed;
+    }
+}
+/* CSS for IE devices */
+@supports (-webkit-appearance:none) {
+
+}
+
+
+
+
 
 
