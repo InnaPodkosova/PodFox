@@ -220,9 +220,14 @@ than have it running constantly during the action of resizing.
 */
 var resizeTimer;
 $(window).on('resize', function(e) {
+    // disactive tabs if mobile view
+    ifMobileView();
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(function() {
+
         tabControl();
+
+
     }, 250);
 });
 
@@ -234,6 +239,21 @@ that in order to have a consistent selection in case the viewport
 changes (e.g. when you esize the browser window or flip your
 device from portrait mode to landscape).
 */
+// disactive tabs if mobile ver
+const  minWidth = 376;
+function ifMobileView() {
+    // disactive tabs if mobile view
+    if (window.screen.width < minWidth){
+
+        // corporate_tab1 > remove  active
+        document.getElementById("corporate_tab1").classList.remove('active');
+        //  > remove  active
+        document.getElementById("family_tab1").classList.remove('active');
+        //  > remove  active
+        document.getElementById("maci_tab1").classList.remove('active');
+    }
+}
+
 function tabControl() {
     var tabs = $('.tabbed-content').find('.tabs');
     if(tabs.is(':visible')) {
