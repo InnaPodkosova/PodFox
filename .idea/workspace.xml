@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/js/moment-with-locales.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-datetimepicker.ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tab-accordio.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tab-accordio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,42 +74,8 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="width" value="1910" />
-    <option name="height" value="1039" />
-  </component>
   <component name="ProjectId" id="1W7O6KwAqanz9zFFLLxvlnRzm82" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PodFok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PodFok" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PodFok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PodFok" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PodFok" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PodFok" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -116,7 +84,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../land-shablon" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -183,6 +151,9 @@
       <workItem from="1583754809446" duration="7407000" />
       <workItem from="1584036991607" duration="6461000" />
       <workItem from="1584296668075" duration="3520000" />
+      <workItem from="1587067137457" duration="91000" />
+      <workItem from="1591123622637" duration="2648000" />
+      <workItem from="1591204462595" duration="9075000" />
     </task>
     <servers />
   </component>
@@ -203,17 +174,15 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2608" y="267" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578926799183">
+    <state x="2658" y="275" width="424" height="479" key="FileChooserDialogImpl" timestamp="1591205483044">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2608" y="267" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1578926799183" />
-    <state x="2658" y="275" width="424" height="479" key="FileChooserDialogImpl" timestamp="1578558319039">
+    <state x="738" y="266" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1587067225183" />
+    <state x="2658" y="275" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1591205483044" />
+    <state x="2673" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591125613296">
       <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2658" y="275" width="424" height="479" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1578558319039" />
-    <state x="753" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586892260831">
-      <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="753" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1044@0.0.1920.1044" timestamp="1586892260831" />
+    <state x="2673" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1591125613296" />
   </component>
 </project>

@@ -878,8 +878,8 @@ button:focus{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    padding: 100px 0;
-    padding-bottom: 70px;
+    padding: 150px 0;
+    padding-bottom: 130px;
 }
 #counter:after{
     content: '';
@@ -950,252 +950,308 @@ button:focus{
 }
 
 
+/*======================  Events block ===========*/
 
-
-
-/*============================================    Events - Details - Tabs Schedule    ===============================================================*/
-
-/*========== TEST TAB + ACCORDION ============*/
-
-
-
-.tabbed-content {
-
-    margin: 1em auto;
-}
-
-.tabs ul {
-    margin: 0;
-    padding: 0 0 1em 0;
-    font-weight: bold;
-}
-.tabs ul li {
-    background-color: #fff;
-    border-radius: 5px;
-    border: 1px solid #e8e8e8;
-    margin: 4px 0;
-}
-.tabs ul li a {
-    padding: 0.5em 1em;
-    text-decoration: none;
-    color: #000;
-}
-.tabs ul li a:hover, .tabs ul li a.active {
-    background: #f31515;
-    color: #fff;
-    border-radius: 5px;
-}
-
-.item {
-    margin-bottom: 2px;
-}
-.item::before {
-    cursor: pointer;
-    font-weight: bold;
-    background-color: rgba(255, 255, 255, 0.5);
-    border-radius: 5px;
-    padding: 0.5em;
-    display: block;
-    border: 1px solid #cfcfcf;
-    margin: 6px 0;
-}
-.item.active::before {
-    background: #f31515;
-    color: #fff;
-    border-radius: 5px;
-}
-.item.active .item-content {
-    padding: 1em;
-    -webkit-transition: opacity 0.3s ease-in-out;
-    -moz-transition: opacity 0.3s ease-in-out;
-    -o-transition: opacity 0.3s ease-in-out;
-    -ms-transition: opacity 0.3s ease-in-out;
-    transition: opacity 0.3s ease-in-out;
-}
-.events-media{
-    position: relative;
-    z-index: 111;
-    margin: 0;
-    padding: 10px 20px 5px 20px;
-}
-.media-bl{
-    margin-bottom: 0!important;
-}
-.media-mr{
-    margin-bottom: 40px;
-}
-.underline-media{
-    top: 13px;
-    position: absolute;
-}
-.events-media-body{
-    display: block;
-    position: relative;
-    /*vertical-align: top;*/
-    /*overflow: visible;*/
-    /*display: flex;*/
-    /*justify-content: flex-start;*/
-    /*align-items: center;*/
-}
-.media-body-headline{
-    font-size: 18px;
-    padding: 0 0 10px 25px;
-    text-align: left;
-}
-
-@media all and (min-width: 800px) {
-    .item.active .item-content {
-        padding-top: 0;
-    }
-
-    .tabs-side .tabs li {
-        margin-bottom: 2px;
-    }
-}
-/*
-The project specific CSS starts here
-This is the minimum CSS that you will need in order for this to work
-*/
-.tabbed-content .tabs {
-    display: none;
-}
-.tabbed-content .item {
-    min-height: 2em;
-}
-.tabbed-content .item::before {
-    content: attr(data-title);
-}
-.tabbed-content .item .item-content {
-    opacity: 0;
-    visibility: hidden;
-    height: 0;
-}
-.tabbed-content .item.active .item-content {
-    opacity: 1;
-    visibility: visible;
-    height: auto;
-}
-
-@media all and (min-width: 800px) {
-    .tabbed-content .tabs {
-        display: block;
-    }
-    .tabbed-content .tabs li {
-        display: inline-block;
-    }
-    .tabbed-content .tabs li a {
-        display: block;
-    }
-    .tabbed-content .item {
-        min-height: 0;
-    }
-    .tabbed-content .item::before {
-        display: none;
-    }
-    .tabbed-content.tabs-side .tabs {
-        width: 150px;
-        float: left;
-    }
-    .tabbed-content.tabs-side .tabs li {
-        display: block;
-    }
-    .tabbed-content.tabs-side .item {
-        margin-left: 150px;
-    }
-}
-
-
-/*========== THE END TEST TAB + ACCORDION ============*/
-#details{
-    width: 100%;
-    background-color: white;
-    margin-top: 0;
-    position: relative;
-}
 .details-content{
-    padding-top: 100px;
-    padding-bottom: 70px;
-}
-.details-grid{
-    width: 100%;
-    margin-top: 0;
-    position: relative;
-    z-index: 111;
-}
-.details-title {
-    width: 100%;
-}
-.details-title p {
-    font-size: 17px;
-    letter-spacing: 1px;
-    color: #1A1A1A;
-    padding: 0;
-    line-height: 27px;
-    margin-top: 12px;
-}
-.details-details {
-    padding: 18px;
-    margin-bottom: 25px;
-    border: 1px solid #F6F1F1;
-    transition: .4s;
-    -webkit-transition: .4s;
-    -moz-transition: .4s;
-    -ms-transition: .4s;
-    -o-transition: .4s;
-    background-color: white;
-    box-shadow: 0 0 2px 0 #c6c6c6;
+   padding-top: 100px;
+   padding-bottom: 100px;
 }
 
-.carousel, .item, .active1 {
+.creativity-grid-event {
     height: 100%;
+    padding: 0;
+    background-color: white;
+    transition: .8s;
+    overflow: hidden;
     position: relative;
-    width: auto;
+    transition: .2s;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+    -ms-transition: .2s;
+    -o-transition: .2s;
+    margin-right: 0;
+    box-shadow: 0 0 5px 0 #e4e4e4;
 }
-.nav-tabs {
-    border-bottom: none;
-    padding: 0 15px;
+.creativity-img-event  {
+    height: 150px;
     width: 100%;
-    margin: auto;
 }
-.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
-    color: white;
-    cursor: default;
-    border: 1px solid transparent;
-    background-color: #f31515;
-}
-.tips-row{
-    margin-top: 50px;
-}
-.nav-tabs > li > a {
-    border: 1px solid #f31515;
-    margin: 0 10px 10px 0;
-    border-radius: 5px;
-    color: black;
-    cursor: default;
-    background-color: rgba(255, 255, 255, 0.5);
-    font-size: 14px;
-    transition: .4s;
-    -webkit-transition: .4s;
-    -moz-transition: .4s;
-    -ms-transition: .4s;
-    -o-transition: .4s;
-    padding: 7px 20px;
-}
-.nav-tabs > li > a:hover {
-    color: white ;
-    cursor: default;
-    cursor: pointer;
-    background-color: #f31515;
-    border: 1px solid #f31515;
-}
-.details-tips{
+.creativity-img-event  img {
+    height: 100%;
     width: 100%;
-    border-top: 1px solid #454545;
 }
-.tab-content {
-    padding: 0 15px;
-    margin-top: 25px;
+
+.events-pages{
+    text-align: left;
+    list-style-type: none;
+    margin-bottom: 0;
+    padding: 0;
 }
+.events-pages li:not(:last-child){
+    border-bottom: 1px solid #fe0b00;
+}
+.events-pages li:hover,
+.events-pages li a:hover{
+    background-color: #fe0b00;
+    color: #fff;
+}
+
+.events-pages li a{
+    color: #272727;
+    text-decoration: none;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 45px;
+    padding: 0 0 0 20px;
+    position: relative;
+    display: block;
+}
+
+/*======================  Events block  END  ===========*/
+
+/*!*============================================    Events - Details - Tabs Schedule    ===============================================================*!*/
+
+/*!*========== TEST TAB + ACCORDION ============*!*/
+
+
+
+/*.tabbed-content {*/
+
+/*    margin: 1em auto;*/
+/*}*/
+
+/*.tabs ul {*/
+/*    margin: 0;*/
+/*    padding: 0 0 1em 0;*/
+/*    font-weight: bold;*/
+/*}*/
+/*.tabs ul li {*/
+/*    background-color: #fff;*/
+/*    border-radius: 5px;*/
+/*    border: 1px solid #e8e8e8;*/
+/*    margin: 4px 0;*/
+/*}*/
+/*.tabs ul li a {*/
+/*    padding: 0.5em 1em;*/
+/*    text-decoration: none;*/
+/*    color: #000;*/
+/*}*/
+/*.tabs ul li a:hover, .tabs ul li a.active {*/
+/*    background: #f31515;*/
+/*    color: #fff;*/
+/*    border-radius: 5px;*/
+/*}*/
+
+/*.item {*/
+/*    margin-bottom: 2px;*/
+/*}*/
+/*.item::before {*/
+/*    cursor: pointer;*/
+/*    font-weight: bold;*/
+/*    background-color: rgba(255, 255, 255, 0.5);*/
+/*    border-radius: 5px;*/
+/*    padding: 0.5em;*/
+/*    display: block;*/
+/*    border: 1px solid #cfcfcf;*/
+/*    margin: 6px 0;*/
+/*}*/
+/*.item.active::before {*/
+/*    background: #f31515;*/
+/*    color: #fff;*/
+/*    border-radius: 5px;*/
+/*}*/
+/*.item.active .item-content {*/
+/*    padding: 1em;*/
+/*    -webkit-transition: opacity 0.3s ease-in-out;*/
+/*    -moz-transition: opacity 0.3s ease-in-out;*/
+/*    -o-transition: opacity 0.3s ease-in-out;*/
+/*    -ms-transition: opacity 0.3s ease-in-out;*/
+/*    transition: opacity 0.3s ease-in-out;*/
+/*}*/
+/*.events-media{*/
+/*    position: relative;*/
+/*    z-index: 111;*/
+/*    margin: 0;*/
+/*    padding: 10px 20px 5px 20px;*/
+/*}*/
+/*.media-bl{*/
+/*    margin-bottom: 0!important;*/
+/*}*/
+/*.media-mr{*/
+/*    margin-bottom: 40px;*/
+/*}*/
+/*.underline-media{*/
+/*    top: 13px;*/
+/*    position: absolute;*/
+/*}*/
+/*.events-media-body{*/
+/*    display: block;*/
+/*    position: relative;*/
+/*    !*vertical-align: top;*!*/
+/*    !*overflow: visible;*!*/
+/*    !*display: flex;*!*/
+/*    !*justify-content: flex-start;*!*/
+/*    !*align-items: center;*!*/
+/*}*/
+/*.media-body-headline{*/
+/*    font-size: 18px;*/
+/*    padding: 0 0 10px 25px;*/
+/*    text-align: left;*/
+/*}*/
+
+/*@media all and (min-width: 800px) {*/
+/*    .item.active .item-content {*/
+/*        padding-top: 0;*/
+/*    }*/
+
+/*    .tabs-side .tabs li {*/
+/*        margin-bottom: 2px;*/
+/*    }*/
+/*}*/
+/*!**/
+/*The project specific CSS starts here*/
+/*This is the minimum CSS that you will need in order for this to work*/
+/**!*/
+/*.tabbed-content .tabs {*/
+/*    display: none;*/
+/*}*/
+/*.tabbed-content .item {*/
+/*    min-height: 2em;*/
+/*}*/
+/*.tabbed-content .item::before {*/
+/*    content: attr(data-title);*/
+/*}*/
+/*.tabbed-content .item .item-content {*/
+/*    opacity: 0;*/
+/*    visibility: hidden;*/
+/*    height: 0;*/
+/*}*/
+/*.tabbed-content .item.active .item-content {*/
+/*    opacity: 1;*/
+/*    visibility: visible;*/
+/*    height: auto;*/
+/*}*/
+
+/*@media all and (min-width: 800px) {*/
+/*    .tabbed-content .tabs {*/
+/*        display: block;*/
+/*    }*/
+/*    .tabbed-content .tabs li {*/
+/*        display: inline-block;*/
+/*    }*/
+/*    .tabbed-content .tabs li a {*/
+/*        display: block;*/
+/*    }*/
+/*    .tabbed-content .item {*/
+/*        min-height: 0;*/
+/*    }*/
+/*    .tabbed-content .item::before {*/
+/*        display: none;*/
+/*    }*/
+/*    .tabbed-content.tabs-side .tabs {*/
+/*        width: 150px;*/
+/*        float: left;*/
+/*    }*/
+/*    .tabbed-content.tabs-side .tabs li {*/
+/*        display: block;*/
+/*    }*/
+/*    .tabbed-content.tabs-side .item {*/
+/*        margin-left: 150px;*/
+/*    }*/
+/*}*/
+
+
+/*!*========== THE END TEST TAB + ACCORDION ============*!*/
+/*#details{*/
+/*    width: 100%;*/
+/*    background-color: white;*/
+/*    margin-top: 0;*/
+/*    position: relative;*/
+/*}*/
+/*.details-content{*/
+/*    padding-top: 100px;*/
+/*    padding-bottom: 70px;*/
+/*}*/
+/*.details-grid{*/
+/*    width: 100%;*/
+/*    margin-top: 0;*/
+/*    position: relative;*/
+/*    z-index: 111;*/
+/*}*/
+/*.details-title {*/
+/*    width: 100%;*/
+/*}*/
+/*.details-title p {*/
+/*    font-size: 17px;*/
+/*    letter-spacing: 1px;*/
+/*    color: #1A1A1A;*/
+/*    padding: 0;*/
+/*    line-height: 27px;*/
+/*    margin-top: 12px;*/
+/*}*/
+/*.details-details {*/
+/*    padding: 18px;*/
+/*    margin-bottom: 25px;*/
+/*    border: 1px solid #F6F1F1;*/
+/*    transition: .4s;*/
+/*    -webkit-transition: .4s;*/
+/*    -moz-transition: .4s;*/
+/*    -ms-transition: .4s;*/
+/*    -o-transition: .4s;*/
+/*    background-color: white;*/
+/*    box-shadow: 0 0 2px 0 #c6c6c6;*/
+/*}*/
+
+/*.carousel, .item, .active1 {*/
+/*    height: 100%;*/
+/*    position: relative;*/
+/*    width: auto;*/
+/*}*/
+/*.nav-tabs {*/
+/*    border-bottom: none;*/
+/*    padding: 0 15px;*/
+/*    width: 100%;*/
+/*    margin: auto;*/
+/*}*/
+/*.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {*/
+/*    color: white;*/
+/*    cursor: default;*/
+/*    border: 1px solid transparent;*/
+/*    background-color: #f31515;*/
+/*}*/
+/*.tips-row{*/
+/*    margin-top: 50px;*/
+/*}*/
+/*.nav-tabs > li > a {*/
+/*    border: 1px solid #f31515;*/
+/*    margin: 0 10px 10px 0;*/
+/*    border-radius: 5px;*/
+/*    color: black;*/
+/*    cursor: default;*/
+/*    background-color: rgba(255, 255, 255, 0.5);*/
+/*    font-size: 14px;*/
+/*    transition: .4s;*/
+/*    -webkit-transition: .4s;*/
+/*    -moz-transition: .4s;*/
+/*    -ms-transition: .4s;*/
+/*    -o-transition: .4s;*/
+/*    padding: 7px 20px;*/
+/*}*/
+/*.nav-tabs > li > a:hover {*/
+/*    color: white ;*/
+/*    cursor: default;*/
+/*    cursor: pointer;*/
+/*    background-color: #f31515;*/
+/*    border: 1px solid #f31515;*/
+/*}*/
+/*.details-tips{*/
+/*    width: 100%;*/
+/*    border-top: 1px solid #454545;*/
+/*}*/
+/*.tab-content {*/
+/*    padding: 0 15px;*/
+/*    margin-top: 25px;*/
+/*}*/
 
 /* =====================================  Additional services========================================================*/
 .tab-headline{
@@ -3601,7 +3657,7 @@ select:-webkit-autofill:focus {
 
 @media screen and (min-width: 992px ) {
     .creativity-details {
-        padding: 16px 4px;
+        padding: 16px 15px;
     }
 }
 
