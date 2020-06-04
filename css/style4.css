@@ -960,6 +960,7 @@ button:focus{
 .creativity-grid-event {
     height: 100%;
     padding: 0;
+    margin-bottom: 25px;
     background-color: white;
     transition: .8s;
     overflow: hidden;
@@ -1001,11 +1002,16 @@ button:focus{
     text-decoration: none;
     font-size: 15px;
     letter-spacing: 1px;
-    line-height: 45px;
-    padding: 0 0 0 20px;
+    line-height: 20px;
+    padding: 10px 0 10px 20px;
     position: relative;
     display: block;
 }
+.creat-m{
+    margin-bottom: 25px;
+}
+
+
 
 /*======================  Events block  END  ===========*/
 
@@ -1412,19 +1418,10 @@ button:focus{
     margin-bottom: 25px;
 }
 
-
-
-
-
-
 /* #Tablet (Portrait) */
-
-
 
 /*  #Mobile (Portrait) - Note: Design for a width of 320px */
 @media only screen and (max-width: 767px) {
-
-
     #ads {
         display:none;
     }
@@ -1434,8 +1431,6 @@ button:focus{
 
 /* #Mobile (Landscape) - Note: Design for a width of 480px */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-
-
     #ads {
         display:none;
     }
@@ -1473,12 +1468,7 @@ button:focus{
     height: 0;
 }
 
-
-
-
 /*================================================================ FANCYBOX ===============================================================*/
-
-
 
 
 .fancybox-wrap,
@@ -1905,9 +1895,6 @@ only screen and (min-device-pixel-ratio: 1.5){
     padding: 0;
     max-width: none;
 }
-
-
-
 
 
 /*=================================================== SERVICE ==========================================*/
@@ -2955,6 +2942,11 @@ select:-webkit-autofill:focus {
 }
 /*=============================================================== RESPONSIVE ======================================================*/
 
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+   .creativity-row>div{
+       padding: 5px!important;
+   }
+}
 
 
 @media screen and (max-width: 992px) {
@@ -3801,6 +3793,15 @@ select:-webkit-autofill:focus {
 @media screen and (max-width: 555px) {
     .working-w {
         width: 90%;
+    }
+}
+@media screen and (max-width: 520px) {
+    .creat-m {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .creativity-img-event {
+        height: 225px;
     }
 }
 @media screen and (max-width: 485px) {
