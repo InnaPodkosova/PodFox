@@ -1011,6 +1011,24 @@ button:focus{
     margin-bottom: 25px;
 }
 
+/*.events-survises{*/
+    /*display: -webkit-flex;*/
+    /*display: -ms-flexbox;*/
+    /*display: flex;*/
+    /*-webkit-flex-wrap: wrap;*/
+    /*-ms-flex-wrap: wrap;*/
+    /*flex-wrap: wrap;*/
+/*}*/
+/*.events-survises>div{*/
+    /*display: -webkit-flex;*/
+    /*display: -ms-flexbox;*/
+    /*display: flex;*/
+/*}*/
+
+.events-survises>div>div>div{
+    height: 100%!important;
+}
+
 
 
 /*======================  Events block  END  ===========*/

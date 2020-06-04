@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,14 +18,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.58502996">
+    <splitter split-orientation="horizontal" split-proportion="0.59474325">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="164">
-                  <caret line="487" column="79" selection-start-line="487" selection-start-column="79" selection-end-line="487" selection-end-column="79" />
+                <state relative-caret-position="230">
+                  <caret line="428" column="36" lean-forward="true" selection-start-line="428" selection-start-column="36" selection-end-line="428" selection-end-column="51" />
                 </state>
               </provider>
             </entry>
@@ -32,8 +33,8 @@
           <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3078">
-                  <caret line="171" column="22" selection-start-line="171" selection-start-column="22" selection-end-line="171" selection-end-column="22" />
+                <state relative-caret-position="198">
+                  <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
@@ -45,17 +46,8 @@
           <file leaf-file-name="style4.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style4.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="517">
-                  <caret line="3804" column="5" selection-start-line="3804" selection-start-column="5" selection-end-line="3804" selection-end-column="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="slick.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/slick.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="18">
-                  <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+                <state relative-caret-position="594">
+                  <caret line="1014" column="4" selection-start-line="1014" selection-start-column="4" selection-end-line="1014" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -72,7 +64,7 @@
           <file leaf-file-name="tab-accordio.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="693">
+                <state relative-caret-position="4428">
                   <caret line="246" column="5" selection-start-line="246" selection-start-column="5" selection-end-line="246" selection-end-column="5" />
                 </state>
               </provider>
@@ -168,7 +160,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1920" />
     <option name="y" value="5" />
     <option name="width" value="1910" />
@@ -181,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,18 +184,12 @@
             <path>
               <item name="Podfox" type="b2602c69:ProjectViewProjectNode" />
               <item name="Podfox" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Podfox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Podfox" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -213,7 +200,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html/remakslim-blog-99-inn" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -223,257 +210,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/style4.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/tab-accordio.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/bg-f.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/message23.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/message24.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images/portfolio/compressed/gallery-8-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/main.js</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/arrows.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/bg-f.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/bg-test.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/bg-test2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/bg-work.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/bg12.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/bg333.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/blank.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/break-dance.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/call.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/close.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/company/company-1.1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/company/company-1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/company/company-2.2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/company/company-2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/company/company-3.1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/company/company-3.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/company/company-4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/company/company-5.1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/company/company-5.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/company/company-6.1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/company/company-6.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/contact.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/21560_max.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/city/city-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/corporate/corporate-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/corporate/corporate-2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/corporate/corporate-3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/corporate/corporate-4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/family/category-banner3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/family/w02.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/family/w03.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/family/w3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/family/w4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/family/w5.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/family/w6.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/family/w7.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/details/mice.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/dj.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/fancybox_buttons.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/fancybox_loading.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/fancybox_loading@2x.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/fancybox_overlay.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/fancybox_sprite.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/fancybox_sprite@2x.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/icon1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/loader1.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/logo.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/meditation.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/message23.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/message24.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/mimg-1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/mimg-2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/mimg-3.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/network.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/plane.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/city/116939.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/city/1252361.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/city/1283319.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/city/DSC_7040.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/city/DSC_7432.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/city/bg222.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/city/ijV3XIn5Eco.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/city/maxresdefault.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-1-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-10-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-11-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-12-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-13-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-14-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-15-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-16-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-17-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-18-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-19-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-2-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-20-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-21-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-22-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-3-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-4-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-5-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-6-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-7-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-8-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/compressed/gallery-9-min.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/corporate/58.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/family/855.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/family/941.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/family/961.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/family/AVK_2206.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/mice/IMG_5576-1200x800-b584.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/mice/IMG_5608-1200x800-04f8.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-10.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-11.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-12.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-13.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-14.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-15.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-16.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-17.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-18.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-19.JPG</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-20.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-21.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-22.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-5.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-6.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-7.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-8.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/portfolio/selected/gallery-9.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/radio.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/slide-1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/slide-2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/slide-3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/teamwork.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/test1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/test2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/test3-1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/test3-2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/test3-3.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/test3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/test3.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/test4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/travel.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/wedding2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/youtube-brands.svg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/youtube.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/images1/youtube2.png</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -537,47 +273,37 @@
       <workItem from="1585158273221" duration="5759000" />
       <workItem from="1585208811353" duration="54000" />
       <workItem from="1585240364694" duration="9823000" />
+      <workItem from="1591274994159" duration="551000" />
+      <workItem from="1591277725376" duration="1441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105576000" />
+    <option name="totallyTimeSpent" value="109855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="5" width="1910" height="1035" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10503751" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12325831" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1470911" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.12184413" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20525187" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.039473683" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28430295" />
-      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -895,38 +621,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4428">
+          <caret line="246" column="5" selection-start-line="246" selection-start-column="5" selection-end-line="246" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/slick.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="1692">
           <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3078">
-          <caret line="171" column="22" selection-start-line="171" selection-start-column="22" selection-end-line="171" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/tab-accordio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="246" column="5" selection-start-line="246" selection-start-column="5" selection-end-line="246" selection-end-column="5" />
+        <state relative-caret-position="198">
+          <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="487" column="79" selection-start-line="487" selection-start-column="79" selection-end-line="487" selection-end-column="79" />
+        <state relative-caret-position="230">
+          <caret line="428" column="36" lean-forward="true" selection-start-line="428" selection-start-column="36" selection-end-line="428" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="3804" column="5" selection-start-line="3804" selection-start-column="5" selection-end-line="3804" selection-end-column="5" />
+        <state relative-caret-position="594">
+          <caret line="1014" column="4" selection-start-line="1014" selection-start-column="4" selection-end-line="1014" selection-end-column="4" />
         </state>
       </provider>
     </entry>

@@ -70,6 +70,47 @@
         interval: 3000
     });
 
+
+    /*============================================ Events and servises clients==========================================*/
+
+    $('.events-survises').slick({
+        slidesToShow: 4,
+        slidesToScroll: 4,
+        autoplay: true,
+        autoplaySpeed: 6000,
+        infinite: true,
+        adaptiveHeight: true,
+        arrows: false,
+        dots: false,
+
+        responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 4,
+                    slidesToScroll: 4
+                }
+            },
+            {
+                breakpoint: 991,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 520,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    dots: true
+                }
+            }
+        ]
+    });
+
+
+
     /*============================================ gallery photo party==========================================*/
 
     $('.works-slideshow .team-item').each(function() {
