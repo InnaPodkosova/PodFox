@@ -73,7 +73,7 @@
 
     /*============================================ Events and servises clients==========================================*/
 
-    $('.events-survises').slick({
+    $('.events-survises, .events-main').slick({
         slidesToShow: 4,
         slidesToScroll: 4,
         autoplay: true,
@@ -95,7 +95,8 @@
                 breakpoint: 991,
                 settings: {
                     slidesToShow: 2,
-                    slidesToScroll: 2
+                    slidesToScroll: 2,
+                    dots: true
                 }
             },
             {

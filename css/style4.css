@@ -1028,9 +1028,19 @@ button:focus{
     /*display: flex;*/
 /*}*/
 
+.events-survises,
+.events-main{
+    margin-top: 50px;
+}
+.events-main>div>div>div{
+    background-color: #fff;
+    height: 560px!important;
+    padding: 0 7px;
+}
 .events-survises>div>div>div{
-    height: 100%!important;
-    padding: 7px;
+    background-color: #fff;
+    height: 460px!important;
+    padding: 0 7px;
 }
 
 
@@ -2972,6 +2982,16 @@ select:-webkit-autofill:focus {
 
 
 @media screen and (max-width: 992px) {
+    .creativity-img-event {
+        height: 200px;
+        width: 100%;
+    }
+    .events-survises>div>div>div {
+        height: 500px!important;
+    }
+    .events-main>div>div>div{
+        height: 575px!important;
+    }
     .navbar-nav li {
         float: left;
         margin: 0 7px;
@@ -3295,6 +3315,16 @@ select:-webkit-autofill:focus {
     .about-wrap{
         width: 100%;
         margin: 0 auto;
+    }
+    .creativity-img-event {
+        height: 225px;
+        width: 100%;
+    }
+    .events-survises>div>div>div {
+        height: 525px!important;
+    }
+    .events-main>div>div>div{
+        height: 600px!important;
     }
 }
 
