@@ -79,138 +79,100 @@ button:focus{
     height: 100%;
     z-index: 1111111111;
 }
-
 #preload {
-    border-radius:50%;
-    height:2px; width:2px; /* To allow border-radius to work */
-    position:absolute;
-    top:50%; left:50%;
-    margin-top:-1px; margin-left:-1px;
-    box-shadow:
-            -75px -125px 0 40px #6cce74,
-            75px -125px 0 40px #c18d46,
-            150px    0px 0 40px #c14745,
-            75px  125px 0 40px #2e1e5b,
-            -75px  125px 0 40px #9c37a6,
-            -150px    0px 0 40px #76bdd1;
-    -webkit-animation:rotate 12s infinite linear;
-    animation:rotate 12s infinite linear;
+    height: 330px;
+    position: absolute;
+    top: 30%;
+    left: calc(50% - 150px);
 }
-@keyframes rotate {
-    16.67% {
-        box-shadow:
-                -75px -125px 0 40px #76bdd1,
-                75px -125px 0 40px #6cce74,
-                150px    0px 0 40px #c18d46,
-                75px  125px 0 40px #c14745,
-                -75px  125px 0 40px #2e1e5b,
-                -150px    0px 0 40px #9c37a6;
-    }
-    33.33%   {
-        box-shadow:
-                -75px -125px 0 40px #9c37a6,
-                75px -125px 0 40px #76bdd1,
-                150px    0px 0 40px #6cce74,
-                75px  125px 0 40px #c18d46,
-                -75px  125px 0 40px #c14745,
-                -150px    0px 0 40px #2e1e5b;
-    }
-    50%      {
-        box-shadow:
-                -75px -125px 0 40px #2e1e5b,
-                75px -125px 0 40px #9c37a6,
-                150px    0px 0 40px #76bdd1,
-                75px  125px 0 40px #6cce74,
-                -75px  125px 0 40px #c18d46,
-                -150px    0px 0 40px #c14745;
-    }
-    66.67%   {
-        box-shadow:
-                -75px -125px 0 40px #c14745,
-                75px -125px 0 40px #2e1e5b,
-                150px    0px 0 40px #9c37a6,
-                75px  125px 0 40px #76bdd1,
-                -75px  125px 0 40px #6cce74,
-                -150px    0px 0 40px #c18d46;
-    }
-    88.88%   {
-        box-shadow:
-                -75px -125px 0 40px #c18d46,
-                75px -125px 0 40px #c14745,
-                150px    0px 0 40px #2e1e5b,
-                75px  125px 0 40px #9c37a6,
-                -75px  125px 0 40px #76bdd1,
-                -150px    0px 0 40px #6cce74;
-    }
-    100% {
-        transform:rotate(-360deg);
-        box-shadow:
-                -75px -125px 0 40px #6cce74,
-                75px -125px 0 40px #c18d46,
-                150px    0px 0 40px #c14745,
-                75px  125px 0 40px #2e1e5b,
-                -75px  125px 0 40px #9c37a6,
-                -150px    0px 0 40px #76bdd1;
-    }
-}
-@-webkit-keyframes rotate {
-    16.67% {
-        box-shadow:
-                -75px -125px 0 40px #76bdd1,
-                75px -125px 0 40px #6cce74,
-                150px    0px 0 40px #c18d46,
-                75px  125px 0 40px #c14745,
-                -75px  125px 0 40px #2e1e5b,
-                -150px    0px 0 40px #9c37a6;
-    }
-    33.33%   {
-        box-shadow:
-                -75px -125px 0 40px #9c37a6,
-                75px -125px 0 40px #76bdd1,
-                150px    0px 0 40px #6cce74,
-                75px  125px 0 40px #c18d46,
-                -75px  125px 0 40px #c14745,
-                -150px    0px 0 40px #2e1e5b;
-    }
-    50%      {
-        box-shadow:
-                -75px -125px 0 40px #2e1e5b,
-                75px -125px 0 40px #9c37a6,
-                150px    0px 0 40px #76bdd1,
-                75px  125px 0 40px #6cce74,
-                -75px  125px 0 40px #c18d46,
-                -150px    0px 0 40px #c14745;
-    }
-    66.67%   {
-        box-shadow:
-                -75px -125px 0 40px #c14745,
-                75px -125px 0 40px #2e1e5b,
-                150px    0px 0 40px #9c37a6,
-                75px  125px 0 40px #76bdd1,
-                -75px  125px 0 40px #6cce74,
-                -150px    0px 0 40px #c18d46;
-    }
-    88.88%   {
-        box-shadow:
-                -75px -125px 0 40px #c18d46,
-                75px -125px 0 40px #c14745,
-                150px    0px 0 40px #2e1e5b,
-                75px  125px 0 40px #9c37a6,
-                -75px  125px 0 40px #76bdd1,
-                -150px    0px 0 40px #6cce74;
-    }
-    100% {
-        -webkit-transform:rotate(-360deg);
-        box-shadow:
-                -75px -125px 0 40px #6cce74,
-                75px -125px 0 40px #c18d46,
-                150px    0px 0 40px #c14745,
-                75px  125px 0 40px #2e1e5b,
-                -75px  125px 0 40px #9c37a6,
-                -150px    0px 0 40px #76bdd1;
-    }
+#preload h2{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #fff;
 }
 
+.loader-inner {
+    bottom: 50px;
+    height: 60px;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    width: 100px;
+}
+
+.loader-line-wrap {
+    animation:
+            spin 2000ms cubic-bezier(.175, .885, .32, 1.275) infinite
+;
+    box-sizing: border-box;
+    height: 50px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    transform-origin: 50% 100%;
+    width: 100px;
+}
+.loader-line {
+    border: 4px solid transparent;
+    border-radius: 100%;
+    box-sizing: border-box;
+    height: 100px;
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100px;
+}
+.loader-line-wrap:nth-child(1) { animation-delay: -50ms; }
+.loader-line-wrap:nth-child(2) { animation-delay: -100ms; }
+.loader-line-wrap:nth-child(3) { animation-delay: -150ms; }
+.loader-line-wrap:nth-child(4) { animation-delay: -200ms; }
+.loader-line-wrap:nth-child(5) { animation-delay: -250ms; }
+
+.loader-line-wrap:nth-child(1) .loader-line {
+    border-color: hsl(15, 88%, 47%);
+    height: 90px;
+    width: 90px;
+    top: 7px;
+}
+.loader-line-wrap:nth-child(2) .loader-line {
+    border-color:hsl(19, 86%, 55%);
+    height: 76px;
+    width: 76px;
+    top: 14px;
+}
+.loader-line-wrap:nth-child(3) .loader-line {
+    border-color: hsl(31, 94%, 61%);
+    height: 62px;
+    width: 62px;
+    top: 21px;
+}
+.loader-line-wrap:nth-child(4) .loader-line {
+    border-color: hsl(43, 99%, 63%);
+    height: 48px;
+    width: 48px;
+    top: 28px;
+}
+.loader-line-wrap:nth-child(5) .loader-line {
+    border-color: hsl(31, 100%, 79%);
+    height: 34px;
+    width: 34px;
+    top: 35px;
+}
+
+@keyframes spin {
+    0%, 15% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
 
 .btn:active {
     -webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,0);
