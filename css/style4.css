@@ -3321,6 +3321,7 @@ select:-webkit-autofill:focus {
         background-color: #F6F6F6;
     }
     .navbar-default .navbar-toggle {
+        border: none;
         border-color: #ff9800;
         margin-top: -52px;
     }
