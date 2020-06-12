@@ -862,11 +862,28 @@ button:focus{
     50%  { transform: translateY(-10px); }
     100% { transform: translateY(0); }
 }
+.handshake{
+    align-self: flex-end;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    height: 90px;
+    margin: 0 auto 0 auto;
+    transform-origin: bottom;
+}
 
+.bounce-2 {
+    animation-name: bounce-2;
+    animation-timing-function: linear;
+}
+@keyframes bounce-2 {
+    0%   { transform: translateX(0); }
+    50%  { transform: translateX(-10px)  rotate(45deg); }
+    100% { transform: translateX(0); }
+}
 
 img.plain {
-    animation: 10s linear 0s normal none infinite running rot;
-    -webkit-animation: 10s linear 0s normal none infinite running rot;
+    animation: 30s linear 0s normal none infinite running rot;
+    -webkit-animation: 30s linear 0s normal none infinite running rot;
     width: 90px;
 }
 @keyframes rot {
