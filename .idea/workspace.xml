@@ -2,93 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_06_2020,_10_58_[Default]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_06_2020__10_58__Default_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/break-dance.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/001-wedding-invitation.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/002-rings.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/003-ring.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/004-wedding-cake.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/005-arch-love.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/006-gift.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/007-smartphone.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/008-camera.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/009-key.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/010-heart.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/011-hands.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/012-groom.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/013-video-camera.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/014-bouquet.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/015-door-hanger.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/016-church.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/017-champagne.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/018-calendar.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/019-bride.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/eps/020-double-bed.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/license/license.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/001-wedding-invitation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/002-rings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/003-ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/004-wedding-cake.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/005-arch-love.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/006-gift.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/007-smartphone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/008-camera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/009-key.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/010-heart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/011-hands.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/012-groom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/013-video-camera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/014-bouquet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/015-door-hanger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/016-church.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/017-champagne.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/018-calendar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/019-bride.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/png/020-double-bed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/001-wedding-invitation.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/002-rings.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/003-ring.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/004-wedding-cake.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/005-arch-love.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/006-gift.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/007-smartphone.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/008-camera.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/009-key.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/010-heart.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/011-hands.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/012-groom.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/013-video-camera.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/014-bouquet.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/015-door-hanger.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/016-church.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/017-champagne.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/018-calendar.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/019-bride.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/psd/020-double-bed.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/radio.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/001-wedding-invitation.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/002-rings.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/003-ring.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/004-wedding-cake.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/005-arch-love.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/006-gift.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/007-smartphone.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/008-camera.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/009-key.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/010-heart.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/011-hands.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/012-groom.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/013-video-camera.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/014-bouquet.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/015-door-hanger.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/016-church.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/017-champagne.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/018-calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/019-bride.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/svg/020-double-bed.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/968328-wedding/teamwork.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tab-accordio.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/contact-form-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/contact-form-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/form-validator.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/form-validator.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.mixitup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mixitup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tab-accordio.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="0a196f3b4aefc5d6712920c62aaa5a0bcd30221b" />
+        <entry key="$PROJECT_DIR$" value="old-version" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -126,7 +50,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../land-shablon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -202,6 +126,8 @@
       <workItem from="1591565472660" duration="683000" />
       <workItem from="1591608395094" duration="599000" />
       <workItem from="1591810020329" duration="6067000" />
+      <workItem from="1592158203988" duration="42000" />
+      <workItem from="1592655089512" duration="10628000" />
     </task>
     <servers />
   </component>
@@ -222,15 +148,16 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2658" y="275" width="424" height="479" key="FileChooserDialogImpl" timestamp="1591205483044">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="738" y="266" width="424" height="479" key="FileChooserDialogImpl" timestamp="1592158243564">
+      <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="738" y="266" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1587067225183" />
+    <state x="738" y="266" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1044@0.0.1920.1044" timestamp="1592158243564" />
     <state x="2658" y="275" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1591205483044" />
-    <state x="2673" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591125613296">
+    <state x="2673" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592659314915">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="753" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1044@0.0.1920.1044" timestamp="1586892260831" />
-    <state x="2673" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1591125613296" />
+    <state x="2673" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1592659314915" />
   </component>
 </project>

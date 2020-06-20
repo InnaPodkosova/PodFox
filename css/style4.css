@@ -63,6 +63,7 @@ button:focus{
     outline: none;
 }
 
+
 /*================================================================ PRELOAD ===================================================================*/
 
 
@@ -1165,6 +1166,7 @@ img.plain {
 }
 
 .events-pages li a{
+    cursor: default;
     color: #272727;
     text-decoration: none;
     font-size: 15px;
@@ -3041,6 +3043,12 @@ select:-webkit-autofill:focus {
     font-family: 'Roboto', serif;
     margin-bottom: 13px;
 }
+.contact-col-grid a{
+    text-decoration: none;
+}
+.contact-col-grid a p:hover{
+    color: #ffad00;
+}
 
 .contact-col-grid p {
     font-size: 17px;
@@ -3075,7 +3083,6 @@ select:-webkit-autofill:focus {
     display: flex;
     justify-content: center;
 }
-
 
 .copyright-details{
     padding: 15px 0 30px;
