@@ -3,9 +3,12 @@
 <head>
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    <title>Ваше сообщение успешно отправлено</title>
+   <link rel="stylesheet" href="mail.css">
 </head>
 
 <body>
+
+<img src="images/w-logo.svg" alt="PodFox - EVENT AGENCY">
 
 <?php
 
