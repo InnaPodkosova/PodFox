@@ -3,7 +3,7 @@
 <head>
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    <title>Ваше сообщение успешно отправлено</title>
-   <link rel="stylesheet" href="mail.css">
+   <link rel="stylesheet" href="mail.css?v2">
 </head>
 
 <body>
