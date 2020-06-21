@@ -10,12 +10,12 @@
 <?php
    $back = "<p><a href=\"javascript: history.back()\">Вернуться назад</a></p>";
 
-   if(!empty($_POST['name']) and !empty($_POST['phone']) and !empty($_POST['mail'])
-   and !empty($_POST['message'])){
+   if(!empty($_POST['name']) and !empty($_POST['phone']) and !empty($_POST['email'])
+   and !empty($_POST['dataevents'])){
       $name = trim(strip_tags($_POST['name']));
       $phone = trim(strip_tags($_POST['phone']));
-      $mail = trim(strip_tags($_POST['mail']));
-      $message = trim(strip_tags($_POST['message']));
+      $mail = trim(strip_tags($_POST['email']));
+      $message = trim(strip_tags($_POST['dataevents']));
 
       mail('podfox.events@gmail.com', 'podfox-events.com',
       'Вам написал: '.$name.'<br />Его номер: '.$phone.'<br />Его почта: '.$mail.'<br />
