@@ -19,13 +19,34 @@
 
       mail('podfox.events@gmail.com', 'podfox-events.com',
       'Вам написал: '.$name.'<br />Его номер: '.$phone.'<br />Его почта: '.$mail.'<br />
-      Дата Ивента: '.$dataevents,"Content-type:text/html;charset=utf-8");
+      Дата Ивента: '.$data,"Content-type:text/html;charset=utf-8");
 
       echo "Ваше сообщение успешно отправлено!<Br> Мы перезвоним  в
       ближайшее время<Br> $back";
 
+      $back = "<img src="images/w-logo.svg" alt="PodFox - EVENT AGENCY">";
+
       exit;
    }
 ?>
+<style>
+
+body{
+    font-size: 16px;
+    display: block;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-image: url(images/test3.jpg);
+}
+a{
+    outline: none;
+    text-decoration: none;
+    color: #F44336;
+    text-transform: uppercase;
+}
+
+
+</style>
 </body>
 </html>
