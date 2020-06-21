@@ -9,8 +9,6 @@
 
 <?php
 
-   echo "<link rel='stylesheet' href='mail.css'>";
-
    $back = "<p><a href=\"javascript: history.back()\">Вернуться назад</a></p>";
 
    if(!empty($_POST['name']) and !empty($_POST['phone']) and !empty($_POST['email'])
@@ -26,8 +24,6 @@
 
       echo "Ваше сообщение успешно отправлено!<Br> Мы перезвоним  в
       ближайшее время<Br> $back";
-
-      $back = "<img src="images/w-logo.svg" alt="PodFox - EVENT AGENCY">";
 
       exit;
    }
