@@ -8,6 +8,9 @@
 <body>
 
 <?php
+
+   echo "<link rel='stylesheet' href='mail.css'>";
+
    $back = "<p><a href=\"javascript: history.back()\">Вернуться назад</a></p>";
 
    if(!empty($_POST['name']) and !empty($_POST['phone']) and !empty($_POST['email'])
@@ -29,24 +32,6 @@
       exit;
    }
 ?>
-<style>
 
-body{
-    font-size: 16px;
-    display: block;
-    text-align: center;
-    width: 100%;
-    height: 100%;
-    background-image: url(images/test3.jpg);
-}
-a{
-    outline: none;
-    text-decoration: none;
-    color: #F44336;
-    text-transform: uppercase;
-}
-
-
-</style>
 </body>
 </html>
