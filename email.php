@@ -8,7 +8,7 @@
 
 <body>
 
-<img src="images/w-logo.svg" alt="PodFox - EVENT AGENCY">
+<img src="images/b-logo.svg" alt="PodFox - EVENT AGENCY">
 
 <?php
 
