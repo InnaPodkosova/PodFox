@@ -1082,17 +1082,17 @@
                                         рабочего дня Мы с Вами свяжемся. </p>
                                 </div><!-- end contact-title -->
                                 <div class="contact-form wow fadeIn">
-                                    <form id="contactForm" class="contact-form shake" data-toggle="validator">
+                                    <form method="post" action="email.php" id="contactForm" class="contact-form shake" data-toggle="validator">
                                         <div class="form-group">
                                             <div class="controls">
-                                                <input type="text" id="name" class="form-control" placeholder="Имя"
+                                                <input type="text" name="name" id="name" class="form-control" placeholder="Имя"
                                                        required data-error="Пожалуйста, введите Ваше Имя">
                                                 <div class="help-block with-errors"></div>
                                             </div><!-- end controls -->
                                         </div><!-- end form-group -->
                                         <div class="form-group">
                                             <div class="controls">
-                                                <input type="email" class="email form-control" id="email"
+                                                <input type="email" name="mail" class="email form-control" id="email"
                                                        placeholder="Почта" required
                                                        data-error="Пожалуйста, введите Ваш Email">
                                                 <div class="help-block with-errors"></div>
@@ -1109,7 +1109,7 @@
                                         <div class="form-group">
                                             <div id="datetimepicker2" class="controls">
 
-                                                <input type="text" id="msg_subject" class="form-control"
+                                                <input type="text" name="dataevents" id="msg_subject" class="form-control"
                                                         placeholder="Дата" required
                                                        data-error="Пожалуйста, укажите мероприятие">
 
