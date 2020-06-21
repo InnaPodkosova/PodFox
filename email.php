@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-   <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    <title>Ваше сообщение успешно отправлено</title>
 </head>
 
@@ -19,7 +19,7 @@
 
       mail('podfox.events@gmail.com', 'podfox-events.com',
       'Вам написал: '.$name.'<br />Его номер: '.$phone.'<br />Его почта: '.$mail.'<br />
-      Дата Ивента: '.$dataevents,"Content-type:text/html;charset=windows-1251");
+      Дата Ивента: '.$dataevents,"Content-type:text/html;charset=utf-8");
 
       echo "Ваше сообщение успешно отправлено!<Br> Мы перезвоним  в
       ближайшее время<Br> $back";
