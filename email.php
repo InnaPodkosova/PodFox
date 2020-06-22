@@ -4,7 +4,7 @@
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <title>Ваше сообщение успешно отправлено</title>
-   <link rel="stylesheet" href="mail.css?v2">
+   <link rel="stylesheet" href="mail.css?v3">
 </head>
 
 <body>
