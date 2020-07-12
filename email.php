@@ -20,11 +20,10 @@
       $name = trim(strip_tags($_POST['name']));
       $phone = trim(strip_tags($_POST['phone']));
       $mail = trim(strip_tags($_POST['email']));
-      $message = trim(strip_tags($_POST['data']));
 
       mail('podfox.events@gmail.com', 'podfox-events.com',
-      'Вам написал: '.$name.'<br />Его номер: '.$phone.'<br />Его почта: '.$mail.'<br />
-      Дата Ивента: '.$data,"Content-type:text/html;charset=utf-8");
+      'Вам написал: '.$name.'<br />Его номер: '.$phone.'<br />Его почта: '.$mail.
+      ,"Content-type:text/html;charset=utf-8");
 
       echo "Ваше сообщение успешно отправлено!<Br> Мы перезвоним  в
       ближайшее время<Br> $back";

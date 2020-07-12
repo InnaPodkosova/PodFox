@@ -11,12 +11,12 @@
         3. home-background slider
         4. about
         5. details
-        6. gallery
-        7. service
-        8. team
-        9. price
-        10. blog
-        11.contact 
+        6. guarantee services
+        7. Additional services
+        8. terms of cooperation
+        9. GALLERY
+        10. VIDEO
+        11. contact form
         
 */
 
@@ -1179,20 +1179,6 @@ img.plain {
 .creat-m{
     margin-bottom: 25px;
 }
-
-/*.events-survises{*/
-    /*display: -webkit-flex;*/
-    /*display: -ms-flexbox;*/
-    /*display: flex;*/
-    /*-webkit-flex-wrap: wrap;*/
-    /*-ms-flex-wrap: wrap;*/
-    /*flex-wrap: wrap;*/
-/*}*/
-/*.events-survises>div{*/
-    /*display: -webkit-flex;*/
-    /*display: -ms-flexbox;*/
-    /*display: flex;*/
-/*}*/
 
 .events-survises,
 .events-main{
