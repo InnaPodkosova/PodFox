@@ -206,13 +206,13 @@ button:focus{
     background-image: url("../images/test3.jpg");
 }
 .bg-img2{
-    background-image: url("../images/test3-1.png");
+    background-image: url("../images/test3-1.png?v=1");
 }
 .bg-img3{
-    background-image: url("../images/test3-2.png");
+    background-image: url("../images/test3-2.png?v=1");
 }
 .bg-img4{
-    background-image: url("../images/test3-3.png");
+    background-image: url("../images/test3-3.png?v=1");
 }
 
 
@@ -1034,7 +1034,7 @@ img.plain {
 }
 
 #counter{
-    background: url(../images/bg12.jpg) no-repeat center center fixed;
+    background: url(../images/bg12.jpg?v=1) no-repeat center center fixed;
     margin: 0;
     display: table;
     height: 100%;
@@ -2089,7 +2089,7 @@ only screen and (min-device-pixel-ratio: 1.5){
     position: relative;
     width: 100%;
     margin-top: 0;
-    background: url(../images/bg-work.jpg) no-repeat center center fixed;
+    background: url(../images/bg-work.jpg?v=1) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -2551,7 +2551,7 @@ only screen and (min-device-pixel-ratio: 1.5){
     margin-top: 70px;
 }
 #message-content2{
-    background: url(../images/message23.jpg) no-repeat center center fixed ;
+    background: url(../images/message23.jpg?v=1) no-repeat center center fixed ;
     margin: 0;
     height: 100%;
     position: relative;
@@ -2575,7 +2575,7 @@ only screen and (min-device-pixel-ratio: 1.5){
     background-color: rgba(0, 0, 0, 0.58);
 }
 #message-content1{
-    background: url(../images/message24.jpg)  no-repeat center center fixed;
+    background: url(../images/message24.jpg?v=1)  no-repeat center center fixed;
     margin: 0;
     height: 100%;
     position: relative;

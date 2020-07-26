@@ -3,7 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg-work.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg-work.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dj.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/dj.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/message23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/message23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/message24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/message24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/network.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/network.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/radio.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/radio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/test3-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/test3-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/test3-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/test3-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/test3-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/test3-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/wedding2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/wedding2.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
