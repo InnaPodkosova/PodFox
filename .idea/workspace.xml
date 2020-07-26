@@ -2,156 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bbb7e14-86fc-4ed5-8e43-a393de936378" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/all.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate-header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate_1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-datetimepicker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min_1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fancyBox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/slick-lightbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/slick-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email.php" beforeDir="false" afterPath="$PROJECT_DIR$/email.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg-test.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg333.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/contact.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/21560_max.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/city/city-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/corporate/corporate-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/corporate/corporate-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/corporate/corporate-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/corporate/corporate-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/corporate/party-new.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/details/corporate/party-new.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/family/category-banner3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/family/w02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/family/w03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/family/w3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/family/w4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/family/w5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/family/w6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/family/w7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/family/wedding.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/details/family/wedding.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/fanny.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/mice.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/rozgr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/v-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/details/v-1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/v-10.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/details/v-10.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/v-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/details/v-2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/v-3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/v-5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/details/v-5.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/v-6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/details/v-6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/v-7.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/v-8.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/details/v-9.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/details/v-9.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Caramel-Agency-Den-rozhdeniya-Ariny-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Caramel-Agency-Den-rozhdeniya-Ariny-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Caramel-Agency-Den-rozhdeniya-Ariny-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Caramel-Agency-Den-rozhdeniya-Veroniki3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Caramel-Agency-Gigalapti.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Caramel-Agency-Mega-volei-bol-harkov-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Caramel-Agency-attraktsion-Vodonos-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Caramel-Agency-attraktsion-gusenitsa-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/city/116939.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/city/1252361.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/city/1283319.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/city/DSC_7040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/city/DSC_7432.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/city/bg222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/city/ijV3XIn5Eco.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/city/maxresdefault.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-1-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-1-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-10-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-10-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-11-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-11-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-12-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-12-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-13-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-13-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-14-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-14-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-15-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-15-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-16-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-16-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-17-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-17-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-18-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-18-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-19-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-19-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-2-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-2-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-20-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-20-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-21-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-21-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-22-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-22-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-23-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-23-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-24-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-24-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-25-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-25-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-26-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-26-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-27-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-27-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-28-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-28-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-29-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-29-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-3-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-3-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-30-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-30-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-31-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-31-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-32-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-32-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-33-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-33-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-4-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-4-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-5-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-5-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-6-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-6-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-7-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-7-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-8-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-8-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/compressed/gallery-9-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/compressed/gallery-9-min.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/corporate/58.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/family/855.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/family/941.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/family/961.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/family/AVK_2206.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/mice/IMG_5576-1200x800-b584.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/mice/IMG_5608-1200x800-04f8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-11.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-12.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-13.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-14.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-15.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-16.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-17.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-18.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-19.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/selected/gallery-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slide-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slide-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slide-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/youtube.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/1b98f46f85.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/ajax-jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/animation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap-datetimepicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/fancyBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/font-awesome.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jQuery-latest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.counterup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.scrolly.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/moment-with-locales.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/particles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/slick-lightbox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/slick.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/wow-anim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/wow.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,8 +15,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -189,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../land-shablon" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -265,21 +118,11 @@
       <workItem from="1591565472660" duration="683000" />
       <workItem from="1591608395094" duration="599000" />
       <workItem from="1591810020329" duration="6067000" />
-      <workItem from="1592158203988" duration="42000" />
-      <workItem from="1592655089512" duration="11600000" />
-      <workItem from="1592731743293" duration="10294000" />
-      <workItem from="1592843735919" duration="2434000" />
-      <workItem from="1594485031403" duration="2277000" />
-      <workItem from="1594553465023" duration="634000" />
-      <workItem from="1594561796198" duration="5805000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -295,20 +138,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2613" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594564709294">
+    <state x="2658" y="275" width="424" height="479" key="FileChooserDialogImpl" timestamp="1591205483044">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2613" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1594564709294" />
-    <state x="738" y="266" width="424" height="479" key="FileChooserDialogImpl" timestamp="1592158243564">
-      <screen x="0" y="0" width="1920" height="1044" />
-    </state>
-    <state x="738" y="266" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1587067225183" />
-    <state x="738" y="266" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1044@0.0.1920.1044" timestamp="1592158243564" />
     <state x="2658" y="275" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1591205483044" />
-    <state x="2673" y="455" width="416" height="163" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594485054074">
+    <state x="2106" y="77" key="MergeDialog" timestamp="1595758025644">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="753" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1044@0.0.1920.1044" timestamp="1586892260831" />
-    <state x="2673" y="455" width="416" height="163" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1594485054074" />
+    <state x="2106" y="77" key="MergeDialog/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1595758025644" />
+    <state x="2590" y="242" width="575" height="567" key="MultipleFileMergeDialog" timestamp="1595758025675">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2590" y="242" width="575" height="567" key="MultipleFileMergeDialog/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1595758025675" />
+    <state x="2673" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595758137660">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2673" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1595758137660" />
+    <state x="2640" y="218" width="476" height="615" key="git4idea.branch.GitSmartOperationDialog" timestamp="1595757987620">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2640" y="218" width="476" height="615" key="git4idea.branch.GitSmartOperationDialog/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1595757987620" />
   </component>
 </project>
