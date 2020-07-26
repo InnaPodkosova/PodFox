@@ -16,10 +16,8 @@
     $(window).on('load', function () {
         // Animate loader off screen
         setTimeout(function () {
-            $(".se-pre-con").delay(100).fadeOut().remove();
-        }, 2000);
-        // $(".se-pre-con").delay(100).fadeOut("slow").remove();
-
+            $(".se-pre-con").fadeOut().remove();
+        }, 1500);
     });
 
     /*===========================================counter-up===========================================*/

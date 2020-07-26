@@ -4015,6 +4015,9 @@ select:-webkit-autofill:focus {
     }
 }
 @media screen and (max-width: 485px) {
+    #particles-js{
+        display: none;
+    }
     .item blockquote p {
         height: 275px;
     }
