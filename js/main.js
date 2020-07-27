@@ -246,11 +246,11 @@
     /*============================================ clients reviews ==========================================*/
 
 
-    // Init fancyBox
-    $().fancybox({
-        selector : '.slick-slide:not(.slick-cloned)',
-        hash     : false
-    });
+    // // Init fancyBox
+    // $().fancybox({
+    //     selector : '.slick-slide:not(.slick-cloned)',
+    //     hash     : false
+    // });
 
     // Init Slick
     $('.my-gallery').slick({
